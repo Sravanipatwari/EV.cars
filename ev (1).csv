@@ -1,0 +1,1501 @@
+Age,Gender,Income,Profession,State,Family Size,Car Model,Price of Car,No of Charging Stations
+55,Female,1192302,Artist,Uttarakhand,6,Audi e-tron,12500000,176
+76,Female,1352549,Businessman,Tripura,6,Tata Punch EV,1200000,456
+58,Female,1648734,Businessman,Maharashtra,7,Tata Punch EV,1200000,380
+65,Male,1916875,Healthcare,Mizoram,5,BMW iX,14000000,763
+47,Male,637660,Artist,Rajasthan,8,Tata Nexon,1700000,456
+59,Female,329807,Professor,West Bengal,6,Tata Punch EV,1200000,513
+61,Female,1173084,Professor,Punjab,1,Tata Tiago,900000,195
+51,Male,1515298,Healthcare,Arunachal Pradesh,3,Tata Nexon,1700000,731
+45,Male,942173,Lawyer,Madhya Pradesh,6,Tata Nexon,1700000,877
+47,Female,1565339,Businessman,Haryana,5,BMW iX,14000000,345
+47,Male,260428,Lawyer,Uttar Pradesh,5,Kia EV6,6300000,216
+34,Female,689197,Politician,Meghalaya,2,BMW iX,14000000,93
+46,Male,789971,Professor,Himachal Pradesh,6,Hyundai Kona Electric,7400000,144
+76,Male,945021,Engineer,Andhra Pradesh,6,Strom Motors R3,500000,304
+32,Female,1862181,Healthcare,West Bengal,7,Hyundai Kona Electric,7400000,513
+45,Male,214767,Entertainer,Uttar Pradesh,4,Rolls-Royce Spectre,75000000,216
+36,Female,355021,Politician,Arunachal Pradesh,8,Hyundai Kona Electric,7400000,731
+80,Male,1382370,Healthcare,Nagaland,8,Tata Nexon,1700000,339
+59,Male,1700460,Businessman,Telangana,4,Audi e-tron,12500000,754
+64,Male,1878236,Artist,West Bengal,3,Rolls-Royce Spectre,75000000,513
+68,Male,810787,Engineer,Uttar Pradesh,1,Tata Tiago,900000,216
+28,Female,1643869,Professor,Arunachal Pradesh,4,Strom Motors R3,500000,731
+43,Male,1833833,Artist,Tamil Nadu,7,Tata Nexon,1700000,919
+42,Male,659895,Artist,Haryana,7,MG Comet EV,700000,345
+41,Male,200810,Doctor,Jharkhand,6,MG Comet EV,700000,132
+20,Female,1620528,Healthcare,Assam,7,MG ZS EV,2200000,784
+34,Female,832332,Entertainer,Maharashtra,2,Kia EV6,6300000,380
+38,Female,1669323,Entertainer,Bihar,1,MG Comet EV,700000,906
+78,Female,1086498,Businessman,West Bengal,5,Tata Tiago,900000,513
+48,Female,305886,Executive,Jharkhand,4,BMW iX,14000000,132
+42,Male,1903313,Artist,Sikkim,2,BMW iX,14000000,275
+47,Female,1191009,Lawyer,Tripura,5,BYD Seal,4500000,456
+35,Female,1098148,Artist,Gujarat,3,Kia EV6,6300000,510
+34,Male,1409919,Professor,Uttarakhand,3,Tata Nexon,1700000,176
+48,Male,1815283,Healthcare,Mizoram,4,Audi e-tron,12500000,763
+64,Female,276009,Doctor,Nagaland,2,Tata Nexon,1700000,339
+18,Female,399619,Homemaker,Punjab,2,Kia EV6,6300000,195
+80,Female,851113,Politician,Gujarat,5,Strom Motors R3,500000,510
+29,Female,1568733,Entertainer,Kerala,7,Audi e-tron,12500000,188
+77,Male,1095482,Politician,Rajasthan,7,Mahindra XUV 400,1800000,456
+72,Male,225895,Healthcare,Rajasthan,6,Tata Nexon,1700000,456
+41,Male,1500203,Executive,Madhya Pradesh,1,Mahindra XUV 400,1800000,877
+63,Female,1920491,Homemaker,Jharkhand,6,BYD Seal,4500000,132
+74,Male,656717,Professor,Odisha,5,Porsche Taycan,20000000,883
+65,Male,911786,Doctor,Punjab,2,Kia EV6,6300000,195
+42,Female,1477611,Entertainer,Rajasthan,7,Tata Punch EV,1200000,456
+41,Female,1846395,Healthcare,Karnataka,6,Tata Nexon,1700000,158
+72,Female,1771967,Healthcare,Gujarat,7,MG Comet EV,700000,510
+77,Male,413236,Healthcare,Haryana,6,Tata Tiago,900000,345
+71,Female,1799863,Lawyer,Tamil Nadu,6,MG ZS EV,2200000,919
+33,Female,534715,Politician,Himachal Pradesh,1,Tata Nexon,1700000,144
+59,Male,1642473,Lawyer,Goa,7,Strom Motors R3,500000,518
+38,Male,1786019,Homemaker,Assam,2,Tata Punch EV,1200000,784
+64,Male,1853142,Entertainer,Maharashtra,6,Mahindra XUV 400,1800000,380
+53,Female,1665149,Homemaker,Uttarakhand,8,Tata Nexon,1700000,176
+57,Male,1318011,Executive,Manipur,5,Rolls-Royce Spectre,75000000,287
+34,Male,1609313,Entertainer,Madhya Pradesh,4,Tata Punch EV,1200000,877
+76,Male,1825635,Politician,Kerala,5,BMW i7,22500000,188
+68,Female,1769689,Entertainer,Punjab,3,Rolls-Royce Spectre,75000000,195
+31,Male,260050,Entertainer,Tamil Nadu,1,Hyundai Kona Electric,7400000,919
+47,Female,1037968,Businessman,Andhra Pradesh,8,Hyundai Kona Electric,7400000,304
+54,Male,736631,Lawyer,Odisha,6,Strom Motors R3,500000,883
+72,Male,767803,Healthcare,Jharkhand,6,Kia EV6,6300000,132
+32,Male,1034594,Businessman,Arunachal Pradesh,1,MG ZS EV,2200000,731
+64,Male,1720350,Entertainer,Jharkhand,7,Kia EV6,6300000,132
+63,Male,359598,Artist,Haryana,3,BMW iX,14000000,345
+19,Female,746019,Healthcare,Odisha,2,Tata Punch EV,1200000,883
+50,Male,1525193,Engineer,Uttarakhand,7,BMW i7,22500000,176
+64,Female,909239,Entertainer,West Bengal,7,Tata Nexon,1700000,513
+44,Female,1383212,Entertainer,Madhya Pradesh,7,BYD Seal,4500000,877
+36,Female,800457,Healthcare,Sikkim,5,MG ZS EV,2200000,275
+46,Male,690956,Healthcare,Maharashtra,3,Tata Punch EV,1200000,380
+54,Female,1163253,Professor,Haryana,3,Tata Punch EV,1200000,345
+59,Male,1108283,Artist,Rajasthan,4,Strom Motors R3,500000,456
+61,Female,242923,Entertainer,Manipur,3,MG ZS EV,2200000,287
+50,Male,1808206,Doctor,Uttarakhand,8,Porsche Taycan,20000000,176
+67,Female,1701624,Politician,Tamil Nadu,1,BMW i7,22500000,919
+58,Male,1420891,Healthcare,Gujarat,4,MG Comet EV,700000,510
+68,Female,521941,Artist,Maharashtra,1,Strom Motors R3,500000,380
+20,Male,804323,Politician,Chhattisgarh,5,Tata Nexon,1700000,483
+62,Male,984355,Politician,Bihar,3,Strom Motors R3,500000,906
+49,Male,1057549,Politician,Nagaland,7,Tata Nexon,1700000,339
+19,Female,491499,Homemaker,Meghalaya,7,Porsche Taycan,20000000,93
+68,Male,1383839,Lawyer,Himachal Pradesh,2,Hyundai Kona Electric,7400000,144
+62,Female,704303,Professor,Nagaland,3,MG ZS EV,2200000,339
+40,Female,1231318,Engineer,Himachal Pradesh,6,Tata Nexon,1700000,144
+69,Male,1127377,Businessman,Tamil Nadu,4,BYD Seal,4500000,919
+18,Male,958851,Politician,Haryana,1,Hyundai Kona Electric,7400000,345
+69,Female,1297601,Executive,Bihar,1,Audi e-tron,12500000,906
+23,Female,1579048,Businessman,Goa,3,Tata Tiago,900000,518
+22,Female,1760955,Professor,Maharashtra,2,Porsche Taycan,20000000,380
+37,Female,727283,Healthcare,Himachal Pradesh,8,Strom Motors R3,500000,144
+62,Male,685408,Healthcare,Haryana,2,MG Comet EV,700000,345
+58,Male,1945287,Politician,Karnataka,6,Tata Tiago,900000,158
+59,Male,378065,Businessman,Chhattisgarh,3,Audi e-tron,12500000,483
+53,Female,1386758,Entertainer,West Bengal,4,Hyundai Kona Electric,7400000,513
+62,Female,1606658,Entertainer,Andhra Pradesh,5,Rolls-Royce Spectre,75000000,304
+67,Female,558531,Entertainer,Sikkim,5,MG Comet EV,700000,275
+32,Male,447192,Professor,Odisha,1,Hyundai Kona Electric,7400000,883
+23,Male,956680,Healthcare,Goa,4,Tata Punch EV,1200000,518
+49,Male,1850830,Doctor,Nagaland,1,Tata Nexon,1700000,339
+41,Female,654245,Homemaker,Gujarat,2,MG ZS EV,2200000,510
+50,Female,1355475,Professor,Goa,4,Kia EV6,6300000,518
+32,Male,576567,Healthcare,West Bengal,5,Tata Punch EV,1200000,513
+34,Female,941793,Professor,Mizoram,3,BMW iX,14000000,763
+72,Male,1208049,Professor,Rajasthan,6,MG Comet EV,700000,456
+77,Female,1390573,Doctor,Goa,3,Hyundai Kona Electric,7400000,518
+72,Male,336608,Doctor,Jharkhand,1,BYD Seal,4500000,132
+42,Male,597995,Professor,Tamil Nadu,6,BYD Seal,4500000,919
+62,Male,1571866,Politician,Haryana,8,BYD Seal,4500000,345
+78,Female,535162,Lawyer,Arunachal Pradesh,4,Tata Nexon,1700000,731
+24,Female,887866,Politician,Gujarat,5,Porsche Taycan,20000000,510
+37,Female,1257032,Artist,Meghalaya,2,MG Comet EV,700000,93
+43,Male,318553,Artist,Andhra Pradesh,2,MG ZS EV,2200000,304
+30,Male,1375708,Lawyer,Himachal Pradesh,7,BMW iX,14000000,144
+40,Male,498702,Doctor,Uttar Pradesh,1,Kia EV6,6300000,216
+78,Male,1967200,Engineer,Karnataka,3,MG ZS EV,2200000,158
+69,Female,396793,Artist,Bihar,7,Strom Motors R3,500000,906
+41,Male,1271030,Professor,Manipur,4,MG ZS EV,2200000,287
+58,Male,1792246,Engineer,Punjab,4,Tata Punch EV,1200000,195
+19,Male,1201489,Homemaker,Chhattisgarh,2,Audi e-tron,12500000,483
+55,Male,488519,Lawyer,Tripura,7,BMW iX,14000000,456
+25,Male,1232387,Artist,Rajasthan,6,Audi e-tron,12500000,456
+53,Male,1249092,Entertainer,Haryana,8,Porsche Taycan,20000000,345
+49,Male,1702890,Entertainer,Mizoram,7,Strom Motors R3,500000,763
+26,Male,480698,Healthcare,Kerala,7,Tata Nexon,1700000,188
+23,Female,734866,Entertainer,Jharkhand,1,BYD Seal,4500000,132
+39,Female,1100008,Engineer,Bihar,2,Strom Motors R3,500000,906
+65,Male,535046,Lawyer,Assam,6,BMW iX,14000000,784
+80,Female,1675823,Healthcare,Telangana,5,Hyundai Kona Electric,7400000,754
+71,Male,998736,Businessman,Sikkim,2,Hyundai Kona Electric,7400000,275
+57,Male,1893257,Healthcare,Meghalaya,7,BMW iX,14000000,93
+58,Male,530531,Artist,Bihar,3,Tata Tiago,900000,906
+62,Female,1002559,Artist,Gujarat,1,Tata Punch EV,1200000,510
+57,Male,270735,Engineer,Tripura,5,MG Comet EV,700000,456
+61,Female,1551670,Executive,Goa,2,Tata Nexon,1700000,518
+39,Male,527607,Doctor,Rajasthan,2,Porsche Taycan,20000000,456
+71,Male,1359373,Lawyer,Sikkim,4,MG ZS EV,2200000,275
+75,Male,338624,Artist,Himachal Pradesh,5,BMW iX,14000000,144
+78,Male,917107,Healthcare,Haryana,2,MG Comet EV,700000,345
+54,Female,258960,Businessman,Andhra Pradesh,6,Porsche Taycan,20000000,304
+68,Male,1679348,Politician,Rajasthan,1,Kia EV6,6300000,456
+71,Male,1106411,Artist,Tamil Nadu,1,MG ZS EV,2200000,919
+69,Female,1001184,Politician,Gujarat,1,Tata Nexon,1700000,510
+48,Male,1714042,Engineer,Arunachal Pradesh,1,Tata Tiago,900000,731
+54,Female,1332311,Healthcare,Gujarat,8,MG ZS EV,2200000,510
+39,Male,985858,Businessman,Assam,5,BMW iX,14000000,784
+51,Male,1907467,Executive,Gujarat,3,Hyundai Kona Electric,7400000,510
+48,Male,1070137,Healthcare,Uttar Pradesh,5,Tata Punch EV,1200000,216
+43,Female,537829,Professor,Jharkhand,2,MG ZS EV,2200000,132
+76,Female,596829,Executive,Punjab,4,Rolls-Royce Spectre,75000000,195
+61,Female,632904,Doctor,Sikkim,6,Tata Punch EV,1200000,275
+68,Male,1422122,Politician,Madhya Pradesh,3,Tata Nexon,1700000,877
+79,Male,1003949,Entertainer,Sikkim,3,BYD Seal,4500000,275
+73,Male,485428,Lawyer,Maharashtra,8,Tata Punch EV,1200000,380
+63,Female,1551687,Lawyer,Karnataka,8,Mahindra XUV 400,1800000,158
+73,Female,1809952,Executive,Kerala,4,Rolls-Royce Spectre,75000000,188
+31,Female,285031,Entertainer,Maharashtra,4,MG ZS EV,2200000,380
+26,Female,1552506,Engineer,Mizoram,3,MG Comet EV,700000,763
+30,Female,1366613,Homemaker,Kerala,1,Strom Motors R3,500000,188
+44,Male,1849688,Homemaker,Nagaland,6,BMW i7,22500000,339
+41,Female,1172922,Lawyer,Gujarat,1,BYD Seal,4500000,510
+33,Male,755104,Homemaker,Punjab,7,Audi e-tron,12500000,195
+63,Male,1320504,Engineer,Chhattisgarh,5,Kia EV6,6300000,483
+52,Male,590938,Doctor,Punjab,1,Audi e-tron,12500000,195
+69,Female,1336687,Businessman,West Bengal,3,BYD Seal,4500000,513
+38,Female,1364995,Professor,Maharashtra,2,BYD Seal,4500000,380
+58,Male,1562762,Executive,Punjab,5,BMW iX,14000000,195
+64,Male,586961,Professor,Nagaland,2,Strom Motors R3,500000,339
+43,Male,684904,Entertainer,Haryana,1,Hyundai Kona Electric,7400000,345
+52,Male,1603954,Lawyer,Madhya Pradesh,6,Strom Motors R3,500000,877
+23,Female,1967217,Artist,Arunachal Pradesh,7,Hyundai Kona Electric,7400000,731
+57,Female,1390657,Homemaker,Himachal Pradesh,8,Strom Motors R3,500000,144
+18,Female,1701663,Businessman,Kerala,8,BYD Seal,4500000,188
+60,Female,871698,Professor,Uttarakhand,4,Strom Motors R3,500000,176
+28,Female,1079176,Politician,Uttar Pradesh,8,Strom Motors R3,500000,216
+50,Male,1416140,Engineer,Nagaland,7,BMW i7,22500000,339
+75,Female,788882,Doctor,Jharkhand,1,BYD Seal,4500000,132
+19,Male,1439901,Businessman,Arunachal Pradesh,5,BMW iX,14000000,731
+32,Male,890531,Professor,Maharashtra,7,Tata Punch EV,1200000,380
+18,Female,1637927,Artist,Sikkim,6,Audi e-tron,12500000,275
+69,Female,1299333,Healthcare,Maharashtra,4,Porsche Taycan,20000000,380
+21,Male,1278942,Lawyer,Goa,5,BMW i7,22500000,518
+58,Female,362022,Lawyer,Karnataka,5,Audi e-tron,12500000,158
+77,Female,782130,Lawyer,Nagaland,7,Audi e-tron,12500000,339
+22,Male,1982603,Lawyer,Goa,6,BMW iX,14000000,518
+61,Male,683326,Professor,Uttarakhand,6,Tata Punch EV,1200000,176
+68,Female,286302,Doctor,Kerala,8,Audi e-tron,12500000,188
+66,Male,693958,Engineer,Goa,3,Hyundai Kona Electric,7400000,518
+24,Male,1955712,Politician,Odisha,4,Audi e-tron,12500000,883
+68,Male,1410868,Professor,Kerala,1,Tata Tiago,900000,188
+49,Male,1312131,Homemaker,Sikkim,1,Tata Punch EV,1200000,275
+67,Male,941206,Healthcare,Kerala,4,Hyundai Kona Electric,7400000,188
+27,Female,1211857,Politician,Karnataka,2,Tata Punch EV,1200000,158
+56,Male,1309906,Healthcare,Karnataka,1,Porsche Taycan,20000000,158
+67,Male,1186461,Executive,Arunachal Pradesh,5,BYD Seal,4500000,731
+47,Female,563308,Artist,Sikkim,6,MG Comet EV,700000,275
+24,Male,1043498,Executive,Chhattisgarh,7,MG ZS EV,2200000,483
+65,Female,1987119,Lawyer,Himachal Pradesh,4,MG Comet EV,700000,144
+42,Female,696780,Entertainer,Odisha,3,Kia EV6,6300000,883
+21,Male,333917,Artist,Tamil Nadu,5,Tata Tiago,900000,919
+45,Female,579316,Engineer,Madhya Pradesh,4,BMW i7,22500000,877
+33,Female,981598,Homemaker,Tripura,6,Strom Motors R3,500000,456
+67,Female,1653359,Businessman,Meghalaya,7,Kia EV6,6300000,93
+37,Male,1690849,Artist,Andhra Pradesh,4,Audi e-tron,12500000,304
+72,Male,1945242,Professor,Andhra Pradesh,2,Tata Punch EV,1200000,304
+55,Female,1695807,Doctor,Manipur,7,Kia EV6,6300000,287
+44,Female,1305457,Professor,Tamil Nadu,4,Hyundai Kona Electric,7400000,919
+54,Female,685872,Engineer,Tamil Nadu,7,Hyundai Kona Electric,7400000,919
+43,Male,451935,Entertainer,Andhra Pradesh,4,Mahindra XUV 400,1800000,304
+72,Male,623310,Entertainer,Jharkhand,4,Kia EV6,6300000,132
+46,Female,1339098,Doctor,Jharkhand,7,Tata Nexon,1700000,132
+28,Female,906253,Businessman,Himachal Pradesh,6,BYD Seal,4500000,144
+35,Female,1211546,Executive,Karnataka,8,Audi e-tron,12500000,158
+19,Female,1525860,Engineer,Kerala,7,Porsche Taycan,20000000,188
+39,Male,1068314,Entertainer,Tamil Nadu,5,Tata Nexon,1700000,919
+44,Female,836009,Executive,Manipur,4,MG ZS EV,2200000,287
+76,Female,476139,Healthcare,Haryana,1,Mahindra XUV 400,1800000,345
+60,Male,552788,Professor,Assam,1,BYD Seal,4500000,784
+60,Male,595480,Politician,Haryana,6,MG ZS EV,2200000,345
+37,Female,1612868,Artist,Arunachal Pradesh,7,Porsche Taycan,20000000,731
+58,Female,1347009,Professor,Uttarakhand,8,Strom Motors R3,500000,176
+73,Male,1221625,Doctor,Mizoram,2,Rolls-Royce Spectre,75000000,763
+52,Female,1618427,Politician,Uttarakhand,7,BMW iX,14000000,176
+78,Male,1677669,Politician,Goa,4,BMW iX,14000000,518
+53,Female,645895,Professor,Jharkhand,8,BYD Seal,4500000,132
+28,Male,1107756,Doctor,Chhattisgarh,8,Rolls-Royce Spectre,75000000,483
+18,Female,1877935,Engineer,West Bengal,7,MG ZS EV,2200000,513
+61,Male,1990788,Artist,Tripura,7,Mahindra XUV 400,1800000,456
+32,Male,1997120,Homemaker,Mizoram,3,Rolls-Royce Spectre,75000000,763
+28,Female,1929981,Engineer,Goa,3,BMW i7,22500000,518
+26,Female,483419,Artist,Sikkim,1,Strom Motors R3,500000,275
+23,Male,655667,Healthcare,Goa,7,Tata Tiago,900000,518
+76,Female,938700,Executive,Punjab,2,Hyundai Kona Electric,7400000,195
+69,Female,966011,Homemaker,Arunachal Pradesh,6,Rolls-Royce Spectre,75000000,731
+79,Female,1665716,Doctor,Gujarat,4,BMW i7,22500000,510
+80,Male,781302,Professor,Telangana,4,Tata Nexon,1700000,754
+42,Female,1083986,Politician,Rajasthan,7,Audi e-tron,12500000,456
+55,Female,1787179,Businessman,Nagaland,2,Kia EV6,6300000,339
+66,Female,1767402,Doctor,Nagaland,8,Tata Tiago,900000,339
+47,Male,547985,Healthcare,Uttarakhand,5,Kia EV6,6300000,176
+42,Female,1463753,Healthcare,Bihar,6,MG Comet EV,700000,906
+26,Male,1248249,Executive,Gujarat,2,Mahindra XUV 400,1800000,510
+38,Female,1941766,Executive,Maharashtra,3,Mahindra XUV 400,1800000,380
+79,Female,663504,Homemaker,Haryana,8,BMW iX,14000000,345
+65,Male,1354552,Businessman,Karnataka,2,BMW i7,22500000,158
+48,Female,763385,Artist,Rajasthan,5,Hyundai Kona Electric,7400000,456
+48,Female,1181514,Doctor,Meghalaya,1,Kia EV6,6300000,93
+57,Female,658155,Lawyer,Jharkhand,5,Strom Motors R3,500000,132
+34,Female,204618,Politician,Mizoram,1,Rolls-Royce Spectre,75000000,763
+40,Male,1277525,Artist,Arunachal Pradesh,4,Strom Motors R3,500000,731
+44,Female,1544167,Lawyer,Assam,5,Kia EV6,6300000,784
+55,Female,542195,Politician,Uttarakhand,2,Mahindra XUV 400,1800000,176
+25,Female,967372,Doctor,Nagaland,2,Mahindra XUV 400,1800000,339
+67,Female,1667040,Professor,Assam,6,Tata Nexon,1700000,784
+52,Female,878080,Politician,Goa,7,Rolls-Royce Spectre,75000000,518
+39,Male,1828739,Artist,Karnataka,4,Strom Motors R3,500000,158
+73,Female,781982,Homemaker,Uttar Pradesh,1,Porsche Taycan,20000000,216
+31,Female,1540503,Politician,Telangana,1,Tata Punch EV,1200000,754
+70,Female,330892,Artist,Punjab,8,MG ZS EV,2200000,195
+34,Female,1862334,Entertainer,Meghalaya,1,Audi e-tron,12500000,93
+74,Female,268119,Homemaker,Tripura,3,MG ZS EV,2200000,456
+77,Female,227360,Doctor,Karnataka,3,MG ZS EV,2200000,158
+69,Female,1078139,Artist,Nagaland,5,Rolls-Royce Spectre,75000000,339
+41,Male,1590155,Artist,Chhattisgarh,5,Porsche Taycan,20000000,483
+27,Female,1832880,Artist,Assam,2,Tata Punch EV,1200000,784
+44,Male,1742024,Professor,Jharkhand,1,Tata Nexon,1700000,132
+50,Female,1011889,Entertainer,Uttarakhand,7,BMW i7,22500000,176
+62,Male,1366485,Professor,West Bengal,6,Porsche Taycan,20000000,513
+63,Male,1198648,Artist,Nagaland,2,BYD Seal,4500000,339
+62,Female,264946,Artist,Andhra Pradesh,3,Audi e-tron,12500000,304
+46,Female,1963264,Politician,Meghalaya,2,MG ZS EV,2200000,93
+75,Male,1778288,Executive,Uttar Pradesh,3,BYD Seal,4500000,216
+34,Male,1310391,Lawyer,Arunachal Pradesh,3,Hyundai Kona Electric,7400000,731
+42,Male,964887,Doctor,Chhattisgarh,4,Kia EV6,6300000,483
+40,Female,371851,Businessman,Rajasthan,2,BYD Seal,4500000,456
+33,Male,1100175,Engineer,Goa,7,BMW i7,22500000,518
+44,Female,1355426,Engineer,Kerala,7,Tata Nexon,1700000,188
+62,Female,1702607,Homemaker,Goa,1,Tata Tiago,900000,518
+71,Female,406544,Doctor,Kerala,4,Tata Punch EV,1200000,188
+73,Female,1906883,Politician,Bihar,4,Tata Punch EV,1200000,906
+51,Female,670055,Homemaker,Tamil Nadu,1,Tata Nexon,1700000,919
+72,Female,1421513,Politician,Maharashtra,8,Mahindra XUV 400,1800000,380
+47,Female,876757,Businessman,Bihar,3,Hyundai Kona Electric,7400000,906
+61,Male,1385243,Professor,Madhya Pradesh,7,Rolls-Royce Spectre,75000000,877
+35,Female,348584,Artist,Uttar Pradesh,5,Strom Motors R3,500000,216
+50,Female,1336026,Doctor,Telangana,1,Mahindra XUV 400,1800000,754
+72,Female,848182,Politician,Kerala,4,Audi e-tron,12500000,188
+32,Male,1975368,Entertainer,Tripura,7,Porsche Taycan,20000000,456
+50,Female,766852,Homemaker,Sikkim,8,Tata Punch EV,1200000,275
+24,Female,647115,Artist,Tripura,3,Mahindra XUV 400,1800000,456
+29,Female,660466,Lawyer,Andhra Pradesh,3,Tata Tiago,900000,304
+51,Male,427680,Politician,Telangana,1,Porsche Taycan,20000000,754
+54,Male,1467074,Homemaker,Telangana,3,BMW iX,14000000,754
+48,Male,441527,Politician,Chhattisgarh,6,MG ZS EV,2200000,483
+51,Male,997031,Healthcare,Tripura,7,BMW iX,14000000,456
+61,Female,599409,Healthcare,Madhya Pradesh,5,BMW iX,14000000,877
+53,Female,1639298,Homemaker,Madhya Pradesh,3,BMW iX,14000000,877
+56,Female,222570,Politician,Madhya Pradesh,7,BMW iX,14000000,877
+68,Male,1894029,Lawyer,Andhra Pradesh,3,Tata Nexon,1700000,304
+57,Male,1856672,Engineer,Assam,5,MG ZS EV,2200000,784
+77,Female,1501274,Healthcare,Maharashtra,7,Tata Nexon,1700000,380
+34,Male,1303612,Entertainer,Manipur,2,Porsche Taycan,20000000,287
+32,Female,247912,Professor,Andhra Pradesh,1,Strom Motors R3,500000,304
+73,Male,385527,Doctor,West Bengal,7,Rolls-Royce Spectre,75000000,513
+70,Male,674002,Doctor,Tamil Nadu,5,Audi e-tron,12500000,919
+79,Male,395278,Executive,Sikkim,6,Tata Punch EV,1200000,275
+55,Male,222135,Businessman,Tamil Nadu,2,Rolls-Royce Spectre,75000000,919
+38,Male,643822,Homemaker,Himachal Pradesh,6,Kia EV6,6300000,144
+53,Female,1570778,Homemaker,Bihar,5,MG Comet EV,700000,906
+50,Female,425912,Lawyer,Tamil Nadu,7,Porsche Taycan,20000000,919
+56,Male,1453385,Engineer,Tripura,5,Tata Punch EV,1200000,456
+71,Male,1963580,Entertainer,Assam,4,Tata Nexon,1700000,784
+20,Male,215421,Lawyer,Manipur,6,Tata Nexon,1700000,287
+54,Female,1141915,Homemaker,Kerala,3,Audi e-tron,12500000,188
+41,Female,623194,Entertainer,Rajasthan,2,Tata Nexon,1700000,456
+30,Female,1485537,Politician,Nagaland,5,BYD Seal,4500000,339
+63,Female,1175877,Artist,Arunachal Pradesh,1,Strom Motors R3,500000,731
+69,Male,1855619,Professor,West Bengal,6,Hyundai Kona Electric,7400000,513
+49,Male,457491,Artist,Chhattisgarh,2,Tata Tiago,900000,483
+36,Male,640297,Homemaker,Chhattisgarh,2,Porsche Taycan,20000000,483
+26,Male,1266598,Businessman,Rajasthan,3,Tata Punch EV,1200000,456
+71,Female,1328842,Artist,Chhattisgarh,8,Rolls-Royce Spectre,75000000,483
+19,Male,710116,Professor,West Bengal,5,Tata Nexon,1700000,513
+42,Male,508952,Professor,Uttarakhand,5,Porsche Taycan,20000000,176
+19,Male,1723213,Politician,Arunachal Pradesh,5,Porsche Taycan,20000000,731
+49,Male,1632760,Artist,Manipur,4,BMW i7,22500000,287
+21,Female,1831818,Homemaker,West Bengal,7,BYD Seal,4500000,513
+19,Female,906680,Lawyer,Andhra Pradesh,6,Audi e-tron,12500000,304
+69,Male,836820,Politician,Telangana,4,Tata Punch EV,1200000,754
+71,Male,753117,Professor,Punjab,3,Mahindra XUV 400,1800000,195
+48,Male,1821055,Healthcare,Tripura,5,BYD Seal,4500000,456
+58,Female,242450,Lawyer,Telangana,3,Tata Punch EV,1200000,754
+44,Male,735773,Lawyer,West Bengal,7,BMW iX,14000000,513
+43,Female,755051,Homemaker,Chhattisgarh,5,MG ZS EV,2200000,483
+63,Female,600035,Politician,Tamil Nadu,4,Hyundai Kona Electric,7400000,919
+18,Male,343455,Politician,Goa,6,Rolls-Royce Spectre,75000000,518
+75,Female,663068,Politician,Odisha,5,Kia EV6,6300000,883
+46,Male,1633422,Politician,Madhya Pradesh,6,Hyundai Kona Electric,7400000,877
+51,Female,1111755,Businessman,Karnataka,6,Tata Nexon,1700000,158
+42,Female,1815718,Executive,Rajasthan,7,BMW i7,22500000,456
+18,Male,221107,Entertainer,Meghalaya,2,Kia EV6,6300000,93
+27,Female,1193604,Executive,Haryana,7,BYD Seal,4500000,345
+38,Female,1542577,Lawyer,Tamil Nadu,3,Audi e-tron,12500000,919
+24,Female,548792,Artist,Jharkhand,5,Tata Nexon,1700000,132
+80,Male,1544115,Executive,Andhra Pradesh,8,BMW iX,14000000,304
+57,Female,931658,Engineer,Bihar,4,Audi e-tron,12500000,906
+49,Female,1651159,Politician,Manipur,7,Audi e-tron,12500000,287
+80,Male,1070758,Executive,Chhattisgarh,5,BMW iX,14000000,483
+70,Male,1764038,Doctor,Mizoram,3,MG Comet EV,700000,763
+79,Male,718109,Executive,Tripura,3,MG ZS EV,2200000,456
+59,Male,526402,Doctor,Uttar Pradesh,1,BMW i7,22500000,216
+33,Female,1230323,Healthcare,Kerala,8,Rolls-Royce Spectre,75000000,188
+18,Female,1004654,Entertainer,Arunachal Pradesh,7,Strom Motors R3,500000,731
+71,Male,974190,Lawyer,Bihar,3,BYD Seal,4500000,906
+45,Male,1518103,Lawyer,Haryana,5,Tata Punch EV,1200000,345
+41,Male,692061,Entertainer,Madhya Pradesh,8,Tata Tiago,900000,877
+53,Male,1820607,Professor,Karnataka,2,BMW i7,22500000,158
+40,Female,1323591,Artist,Maharashtra,4,Tata Nexon,1700000,380
+71,Female,1937894,Entertainer,Haryana,8,BMW iX,14000000,345
+71,Male,595978,Doctor,Maharashtra,5,Kia EV6,6300000,380
+44,Male,1360852,Artist,Tripura,4,BMW i7,22500000,456
+74,Female,496064,Lawyer,Odisha,3,Strom Motors R3,500000,883
+54,Female,400844,Lawyer,Tamil Nadu,2,Strom Motors R3,500000,919
+59,Female,867121,Homemaker,Arunachal Pradesh,6,Porsche Taycan,20000000,731
+50,Female,864151,Engineer,Sikkim,3,Tata Tiago,900000,275
+37,Female,1974863,Executive,Uttar Pradesh,4,BYD Seal,4500000,216
+37,Female,1125970,Entertainer,Sikkim,6,MG ZS EV,2200000,275
+49,Female,575163,Entertainer,Punjab,1,BYD Seal,4500000,195
+57,Male,1675004,Lawyer,Haryana,4,Mahindra XUV 400,1800000,345
+43,Male,1538682,Healthcare,Sikkim,1,Tata Punch EV,1200000,275
+23,Male,1416694,Healthcare,Punjab,8,Audi e-tron,12500000,195
+56,Male,1311935,Lawyer,Assam,6,Porsche Taycan,20000000,784
+38,Male,1276194,Businessman,Kerala,1,Rolls-Royce Spectre,75000000,188
+26,Female,1665072,Homemaker,Arunachal Pradesh,1,Rolls-Royce Spectre,75000000,731
+48,Female,1662508,Businessman,Nagaland,3,Tata Nexon,1700000,339
+32,Female,628753,Doctor,Meghalaya,1,Tata Nexon,1700000,93
+31,Male,1149689,Politician,Madhya Pradesh,1,Porsche Taycan,20000000,877
+49,Female,221710,Artist,Haryana,4,Rolls-Royce Spectre,75000000,345
+67,Male,1218887,Politician,Arunachal Pradesh,7,Tata Tiago,900000,731
+47,Female,1669350,Businessman,Sikkim,7,Audi e-tron,12500000,275
+20,Male,1275401,Doctor,Goa,7,Audi e-tron,12500000,518
+56,Female,424009,Businessman,Karnataka,6,Mahindra XUV 400,1800000,158
+56,Female,919443,Homemaker,Kerala,8,Rolls-Royce Spectre,75000000,188
+58,Female,1125580,Lawyer,Gujarat,6,Tata Tiago,900000,510
+66,Female,1290309,Entertainer,Arunachal Pradesh,4,Hyundai Kona Electric,7400000,731
+67,Male,220743,Lawyer,Karnataka,7,Rolls-Royce Spectre,75000000,158
+45,Female,1812318,Professor,Tamil Nadu,4,BMW iX,14000000,919
+77,Male,797654,Artist,Mizoram,2,BYD Seal,4500000,763
+45,Male,1763183,Homemaker,Jharkhand,1,Audi e-tron,12500000,132
+70,Female,659890,Engineer,Kerala,4,Tata Tiago,900000,188
+80,Female,382286,Professor,Gujarat,8,Hyundai Kona Electric,7400000,510
+59,Male,806519,Doctor,West Bengal,8,Kia EV6,6300000,513
+46,Male,1681441,Professor,Meghalaya,5,Audi e-tron,12500000,93
+39,Female,1557564,Professor,Chhattisgarh,3,Tata Punch EV,1200000,483
+46,Female,1132119,Executive,Tripura,4,BMW iX,14000000,456
+25,Male,390940,Artist,Punjab,2,Porsche Taycan,20000000,195
+42,Female,698683,Executive,Andhra Pradesh,8,Kia EV6,6300000,304
+25,Female,1639614,Businessman,Bihar,8,BYD Seal,4500000,906
+38,Female,1848569,Healthcare,Odisha,1,Porsche Taycan,20000000,883
+73,Male,1839228,Doctor,Kerala,1,Strom Motors R3,500000,188
+24,Male,1567626,Healthcare,Chhattisgarh,8,Tata Nexon,1700000,483
+23,Male,1405766,Healthcare,Karnataka,7,Kia EV6,6300000,158
+39,Male,1438655,Healthcare,Rajasthan,2,MG ZS EV,2200000,456
+59,Female,1315646,Homemaker,Manipur,4,BMW iX,14000000,287
+29,Female,977321,Artist,Haryana,7,Tata Nexon,1700000,345
+50,Male,1245330,Politician,Mizoram,7,Rolls-Royce Spectre,75000000,763
+71,Female,474429,Artist,Mizoram,2,Rolls-Royce Spectre,75000000,763
+49,Female,214346,Doctor,West Bengal,3,Kia EV6,6300000,513
+37,Male,1773083,Professor,Odisha,4,BMW i7,22500000,883
+19,Male,477104,Healthcare,Punjab,5,MG Comet EV,700000,195
+45,Male,1225844,Executive,Tamil Nadu,1,Tata Punch EV,1200000,919
+54,Female,612323,Doctor,Bihar,7,Tata Nexon,1700000,906
+78,Male,797444,Professor,Uttar Pradesh,8,BYD Seal,4500000,216
+29,Female,1922869,Politician,Gujarat,2,Strom Motors R3,500000,510
+27,Male,876617,Artist,Arunachal Pradesh,7,Kia EV6,6300000,731
+77,Male,1723715,Professor,Nagaland,4,Kia EV6,6300000,339
+32,Female,271275,Politician,Kerala,8,BMW i7,22500000,188
+20,Female,1543565,Artist,Gujarat,7,BYD Seal,4500000,510
+79,Male,1241277,Artist,Mizoram,6,Tata Tiago,900000,763
+28,Female,1510318,Healthcare,Chhattisgarh,5,Audi e-tron,12500000,483
+64,Male,1805344,Businessman,Odisha,5,Mahindra XUV 400,1800000,883
+63,Male,402175,Politician,Andhra Pradesh,7,Kia EV6,6300000,304
+28,Male,861341,Politician,Nagaland,7,Tata Nexon,1700000,339
+18,Female,1300872,Healthcare,Odisha,4,BYD Seal,4500000,883
+44,Female,1584503,Professor,West Bengal,5,Audi e-tron,12500000,513
+34,Female,1268255,Artist,Andhra Pradesh,3,MG ZS EV,2200000,304
+27,Male,1153340,Lawyer,Kerala,5,Mahindra XUV 400,1800000,188
+18,Female,734389,Entertainer,Punjab,3,MG Comet EV,700000,195
+42,Male,935357,Artist,Arunachal Pradesh,3,MG Comet EV,700000,731
+42,Female,1368129,Professor,Madhya Pradesh,3,Strom Motors R3,500000,877
+27,Female,1023699,Engineer,Chhattisgarh,3,Tata Tiago,900000,483
+49,Male,1395255,Engineer,Meghalaya,1,Tata Nexon,1700000,93
+61,Female,1817234,Homemaker,Gujarat,6,Mahindra XUV 400,1800000,510
+30,Male,306172,Homemaker,Himachal Pradesh,2,Tata Tiago,900000,144
+77,Male,898104,Executive,Andhra Pradesh,1,Porsche Taycan,20000000,304
+54,Female,1374973,Executive,Meghalaya,8,Porsche Taycan,20000000,93
+34,Male,723036,Executive,Karnataka,4,Rolls-Royce Spectre,75000000,158
+31,Male,1019307,Lawyer,Himachal Pradesh,6,Rolls-Royce Spectre,75000000,144
+65,Female,1718479,Healthcare,Telangana,4,MG Comet EV,700000,754
+40,Female,896130,Healthcare,Goa,6,Tata Punch EV,1200000,518
+76,Female,1682760,Doctor,Manipur,5,Tata Tiago,900000,287
+34,Male,1882439,Professor,Andhra Pradesh,4,Hyundai Kona Electric,7400000,304
+55,Female,932804,Businessman,Sikkim,2,Audi e-tron,12500000,275
+62,Male,595684,Politician,Tripura,1,Rolls-Royce Spectre,75000000,456
+27,Male,294635,Executive,Meghalaya,8,Tata Punch EV,1200000,93
+77,Female,1108536,Executive,Andhra Pradesh,7,BYD Seal,4500000,304
+58,Female,499168,Entertainer,Kerala,2,Kia EV6,6300000,188
+37,Female,1960170,Engineer,Maharashtra,1,Kia EV6,6300000,380
+33,Male,717927,Lawyer,Goa,6,MG Comet EV,700000,518
+70,Female,483150,Politician,Rajasthan,7,Strom Motors R3,500000,456
+59,Male,301638,Doctor,Gujarat,2,Mahindra XUV 400,1800000,510
+25,Male,1964656,Executive,Uttar Pradesh,3,BYD Seal,4500000,216
+42,Male,1976198,Artist,Rajasthan,6,BMW iX,14000000,456
+41,Female,1637304,Executive,Jharkhand,3,Porsche Taycan,20000000,132
+45,Male,1068898,Professor,Goa,2,Strom Motors R3,500000,518
+34,Female,871701,Politician,Tripura,1,BYD Seal,4500000,456
+41,Female,418933,Artist,West Bengal,7,MG Comet EV,700000,513
+44,Male,206059,Professor,Arunachal Pradesh,3,Tata Punch EV,1200000,731
+21,Male,1705407,Entertainer,Odisha,6,Audi e-tron,12500000,883
+68,Female,998411,Businessman,Chhattisgarh,1,Strom Motors R3,500000,483
+35,Female,1482928,Homemaker,Gujarat,4,BYD Seal,4500000,510
+25,Female,451350,Politician,Sikkim,3,MG Comet EV,700000,275
+60,Male,1490831,Homemaker,Odisha,4,Kia EV6,6300000,883
+22,Male,1576652,Professor,Chhattisgarh,2,BMW iX,14000000,483
+69,Female,1457864,Artist,Bihar,3,Tata Punch EV,1200000,906
+61,Male,1353830,Engineer,Punjab,7,MG ZS EV,2200000,195
+48,Female,1625471,Lawyer,Uttarakhand,4,Porsche Taycan,20000000,176
+46,Female,1493050,Businessman,Andhra Pradesh,2,Rolls-Royce Spectre,75000000,304
+79,Male,394537,Healthcare,Chhattisgarh,1,Mahindra XUV 400,1800000,483
+31,Male,1817434,Homemaker,Kerala,5,Porsche Taycan,20000000,188
+54,Female,614268,Engineer,Assam,6,Audi e-tron,12500000,784
+69,Male,1506275,Doctor,Haryana,7,BMW i7,22500000,345
+21,Male,456410,Doctor,Sikkim,4,Tata Punch EV,1200000,275
+51,Male,1958200,Doctor,Uttar Pradesh,3,Mahindra XUV 400,1800000,216
+63,Female,316095,Doctor,Kerala,7,Audi e-tron,12500000,188
+26,Male,1354887,Healthcare,Sikkim,8,Kia EV6,6300000,275
+55,Male,1521771,Homemaker,Himachal Pradesh,7,Strom Motors R3,500000,144
+53,Female,831600,Homemaker,Goa,8,MG Comet EV,700000,518
+22,Female,412301,Healthcare,Nagaland,6,Strom Motors R3,500000,339
+25,Female,400866,Homemaker,Bihar,8,Strom Motors R3,500000,906
+21,Female,1911833,Homemaker,Manipur,7,Hyundai Kona Electric,7400000,287
+64,Female,1376795,Entertainer,Madhya Pradesh,3,Porsche Taycan,20000000,877
+34,Male,1598673,Doctor,Assam,3,Kia EV6,6300000,784
+65,Female,1233163,Lawyer,Arunachal Pradesh,4,Kia EV6,6300000,731
+44,Female,1941610,Engineer,Tripura,2,BYD Seal,4500000,456
+58,Male,1909311,Entertainer,Nagaland,4,Kia EV6,6300000,339
+41,Female,1064273,Businessman,Jharkhand,3,Kia EV6,6300000,132
+58,Male,656575,Lawyer,Goa,4,Tata Tiago,900000,518
+75,Male,698828,Healthcare,West Bengal,2,Audi e-tron,12500000,513
+47,Male,1361412,Engineer,Himachal Pradesh,8,Hyundai Kona Electric,7400000,144
+23,Male,449257,Politician,Bihar,3,Tata Nexon,1700000,906
+79,Male,784931,Entertainer,Haryana,1,Mahindra XUV 400,1800000,345
+66,Male,698770,Businessman,Arunachal Pradesh,1,BMW i7,22500000,731
+49,Female,1818080,Entertainer,Kerala,3,MG Comet EV,700000,188
+52,Male,532795,Entertainer,Uttarakhand,2,Rolls-Royce Spectre,75000000,176
+41,Female,1325125,Artist,Bihar,6,Tata Tiago,900000,906
+61,Male,995467,Homemaker,Madhya Pradesh,7,Audi e-tron,12500000,877
+61,Female,1063090,Artist,Haryana,8,Audi e-tron,12500000,345
+19,Male,1687574,Politician,Manipur,3,Tata Nexon,1700000,287
+66,Female,753823,Lawyer,Bihar,5,Tata Punch EV,1200000,906
+26,Male,1114338,Entertainer,Uttarakhand,3,Mahindra XUV 400,1800000,176
+44,Male,1389689,Engineer,Kerala,8,Porsche Taycan,20000000,188
+24,Female,1983966,Healthcare,Jharkhand,1,Mahindra XUV 400,1800000,132
+34,Male,1420060,Doctor,Uttarakhand,2,Hyundai Kona Electric,7400000,176
+37,Female,1683909,Executive,Manipur,7,Audi e-tron,12500000,287
+66,Female,961452,Doctor,Odisha,3,BMW i7,22500000,883
+77,Female,1766881,Doctor,Telangana,8,BMW iX,14000000,754
+73,Male,1578144,Artist,Kerala,6,BYD Seal,4500000,188
+43,Female,1636043,Healthcare,Sikkim,8,BMW i7,22500000,275
+67,Male,455941,Artist,Gujarat,5,Porsche Taycan,20000000,510
+34,Male,1578121,Politician,Sikkim,3,Porsche Taycan,20000000,275
+77,Male,954981,Businessman,Tamil Nadu,7,Tata Nexon,1700000,919
+45,Male,777832,Entertainer,Jharkhand,8,Mahindra XUV 400,1800000,132
+52,Female,267022,Executive,Sikkim,5,Audi e-tron,12500000,275
+32,Female,557029,Businessman,Mizoram,4,Tata Punch EV,1200000,763
+60,Male,1916673,Entertainer,Goa,1,BMW i7,22500000,518
+58,Male,1607680,Engineer,Kerala,4,Kia EV6,6300000,188
+26,Male,237050,Politician,Mizoram,5,Tata Nexon,1700000,763
+60,Female,815800,Healthcare,Himachal Pradesh,3,MG Comet EV,700000,144
+69,Male,1803447,Lawyer,Bihar,8,Rolls-Royce Spectre,75000000,906
+57,Female,339818,Businessman,Manipur,1,Strom Motors R3,500000,287
+33,Female,482328,Homemaker,Haryana,2,Tata Nexon,1700000,345
+24,Male,1032374,Homemaker,West Bengal,3,Audi e-tron,12500000,513
+66,Male,1221698,Doctor,Kerala,4,Porsche Taycan,20000000,188
+19,Male,1822405,Lawyer,Gujarat,3,Mahindra XUV 400,1800000,510
+59,Female,407475,Politician,Madhya Pradesh,7,Audi e-tron,12500000,877
+68,Male,969025,Executive,Uttar Pradesh,6,Tata Punch EV,1200000,216
+36,Male,871255,Homemaker,Punjab,8,Rolls-Royce Spectre,75000000,195
+80,Female,889366,Doctor,Goa,5,Porsche Taycan,20000000,518
+63,Female,840708,Artist,Kerala,7,Tata Tiago,900000,188
+23,Male,1589076,Professor,Meghalaya,2,MG Comet EV,700000,93
+29,Female,847715,Businessman,Kerala,2,MG Comet EV,700000,188
+62,Female,778366,Politician,Arunachal Pradesh,7,Porsche Taycan,20000000,731
+23,Female,1060483,Homemaker,Maharashtra,3,MG Comet EV,700000,380
+31,Male,290858,Doctor,Chhattisgarh,8,Tata Punch EV,1200000,483
+30,Male,1881609,Lawyer,Sikkim,4,Kia EV6,6300000,275
+69,Male,416525,Healthcare,Uttarakhand,2,Audi e-tron,12500000,176
+56,Male,730030,Businessman,Jharkhand,6,Tata Tiago,900000,132
+30,Male,1461616,Engineer,Assam,4,BYD Seal,4500000,784
+30,Female,731360,Doctor,Mizoram,2,BMW i7,22500000,763
+74,Female,1642281,Politician,Jharkhand,8,Rolls-Royce Spectre,75000000,132
+59,Female,322557,Politician,Tripura,7,MG Comet EV,700000,456
+69,Male,762439,Engineer,Sikkim,8,Rolls-Royce Spectre,75000000,275
+59,Male,1630240,Healthcare,Meghalaya,4,Kia EV6,6300000,93
+52,Male,1806597,Businessman,Odisha,1,BYD Seal,4500000,883
+73,Female,602148,Doctor,Uttar Pradesh,5,Mahindra XUV 400,1800000,216
+67,Female,731550,Engineer,Mizoram,2,Strom Motors R3,500000,763
+59,Male,1749708,Engineer,Rajasthan,1,Rolls-Royce Spectre,75000000,456
+78,Male,425236,Lawyer,Himachal Pradesh,1,Audi e-tron,12500000,144
+77,Male,1964211,Artist,Odisha,1,Tata Nexon,1700000,883
+24,Female,956929,Lawyer,Meghalaya,8,Strom Motors R3,500000,93
+23,Male,525250,Homemaker,Uttar Pradesh,7,BMW iX,14000000,216
+60,Male,419725,Doctor,Arunachal Pradesh,8,Porsche Taycan,20000000,731
+26,Male,243415,Artist,Haryana,2,MG Comet EV,700000,345
+50,Female,1456347,Engineer,Punjab,5,BMW iX,14000000,195
+18,Female,731905,Homemaker,Sikkim,3,BMW iX,14000000,275
+51,Male,451271,Businessman,Uttarakhand,2,BYD Seal,4500000,176
+19,Female,1995209,Entertainer,Punjab,1,Strom Motors R3,500000,195
+24,Male,392677,Professor,Meghalaya,8,Strom Motors R3,500000,93
+38,Male,1297820,Professor,Maharashtra,4,Audi e-tron,12500000,380
+32,Male,1368108,Politician,Gujarat,5,Tata Nexon,1700000,510
+79,Female,723573,Artist,Kerala,3,Hyundai Kona Electric,7400000,188
+26,Male,747152,Healthcare,Tamil Nadu,1,Tata Nexon,1700000,919
+58,Female,1080744,Businessman,Goa,6,Tata Nexon,1700000,518
+40,Female,1314127,Doctor,Karnataka,8,BMW i7,22500000,158
+56,Male,1984703,Doctor,Mizoram,2,Tata Nexon,1700000,763
+62,Female,1203590,Artist,Tripura,6,Tata Punch EV,1200000,456
+56,Male,1583233,Artist,Goa,1,Kia EV6,6300000,518
+46,Male,1540967,Doctor,Andhra Pradesh,6,BMW iX,14000000,304
+21,Female,667325,Artist,Kerala,8,Tata Tiago,900000,188
+44,Male,1411890,Entertainer,Gujarat,3,BYD Seal,4500000,510
+46,Female,906223,Artist,Odisha,6,BYD Seal,4500000,883
+56,Female,1715366,Entertainer,Telangana,7,Mahindra XUV 400,1800000,754
+72,Male,239197,Artist,Goa,8,MG Comet EV,700000,518
+80,Female,915779,Executive,Himachal Pradesh,5,Tata Punch EV,1200000,144
+50,Female,529860,Executive,Punjab,6,Audi e-tron,12500000,195
+57,Male,1344245,Artist,Jharkhand,4,Tata Tiago,900000,132
+49,Male,1862435,Homemaker,Manipur,8,Tata Tiago,900000,287
+64,Female,1439570,Engineer,Tripura,3,MG Comet EV,700000,456
+37,Male,1326426,Professor,Sikkim,3,MG Comet EV,700000,275
+24,Male,1400437,Homemaker,Tamil Nadu,8,Tata Punch EV,1200000,919
+18,Male,976462,Lawyer,Assam,5,Audi e-tron,12500000,784
+65,Female,717878,Doctor,Manipur,1,Hyundai Kona Electric,7400000,287
+69,Female,1488343,Entertainer,Nagaland,1,Tata Nexon,1700000,339
+55,Male,1475073,Doctor,Tripura,8,Porsche Taycan,20000000,456
+65,Female,1646984,Executive,Chhattisgarh,2,Tata Tiago,900000,483
+70,Male,1529919,Healthcare,Punjab,7,Audi e-tron,12500000,195
+32,Male,1390978,Entertainer,Odisha,1,Strom Motors R3,500000,883
+68,Male,361853,Engineer,Kerala,6,Tata Tiago,900000,188
+25,Male,200698,Doctor,Gujarat,7,MG Comet EV,700000,510
+52,Female,739994,Homemaker,Karnataka,4,Strom Motors R3,500000,158
+78,Female,1192421,Doctor,Assam,7,Tata Punch EV,1200000,784
+67,Female,1103964,Healthcare,Andhra Pradesh,5,Strom Motors R3,500000,304
+59,Female,568659,Businessman,Andhra Pradesh,6,MG ZS EV,2200000,304
+23,Male,1801102,Entertainer,Assam,7,Rolls-Royce Spectre,75000000,784
+38,Female,1617799,Executive,Tamil Nadu,2,Mahindra XUV 400,1800000,919
+29,Male,875613,Lawyer,Madhya Pradesh,2,Tata Punch EV,1200000,877
+79,Male,1914694,Professor,Punjab,6,Strom Motors R3,500000,195
+56,Male,1673004,Professor,Mizoram,3,Strom Motors R3,500000,763
+79,Female,1839017,Professor,Andhra Pradesh,8,BYD Seal,4500000,304
+72,Female,784796,Healthcare,Uttarakhand,7,Hyundai Kona Electric,7400000,176
+46,Male,598777,Lawyer,Andhra Pradesh,3,Tata Tiago,900000,304
+46,Female,1713816,Businessman,Tripura,8,Tata Tiago,900000,456
+24,Female,460188,Businessman,Andhra Pradesh,3,Kia EV6,6300000,304
+69,Female,1392163,Healthcare,Meghalaya,2,Strom Motors R3,500000,93
+62,Female,819894,Professor,Odisha,1,Strom Motors R3,500000,883
+75,Female,905143,Homemaker,Himachal Pradesh,8,Kia EV6,6300000,144
+64,Female,1365329,Professor,Tamil Nadu,5,Hyundai Kona Electric,7400000,919
+21,Male,1480824,Artist,Himachal Pradesh,6,BMW i7,22500000,144
+31,Male,1301506,Artist,Telangana,6,Mahindra XUV 400,1800000,754
+24,Female,1189980,Homemaker,Rajasthan,4,Hyundai Kona Electric,7400000,456
+31,Male,1819881,Politician,Tripura,5,BMW iX,14000000,456
+68,Male,1025354,Lawyer,Madhya Pradesh,6,BMW iX,14000000,877
+60,Male,1625345,Engineer,Karnataka,8,Porsche Taycan,20000000,158
+47,Male,1129542,Professor,Chhattisgarh,3,MG ZS EV,2200000,483
+37,Male,1576442,Artist,Himachal Pradesh,5,Tata Nexon,1700000,144
+34,Female,913396,Politician,West Bengal,2,MG Comet EV,700000,513
+63,Male,1332144,Executive,Uttar Pradesh,2,Audi e-tron,12500000,216
+35,Male,228519,Professor,Uttar Pradesh,7,Tata Tiago,900000,216
+78,Female,1826737,Homemaker,Rajasthan,6,BYD Seal,4500000,456
+42,Female,909230,Engineer,Mizoram,7,Audi e-tron,12500000,763
+50,Male,934935,Lawyer,Odisha,4,Rolls-Royce Spectre,75000000,883
+41,Female,1212244,Artist,Manipur,1,Rolls-Royce Spectre,75000000,287
+53,Male,804001,Homemaker,Karnataka,4,Mahindra XUV 400,1800000,158
+56,Female,1141668,Businessman,Assam,7,Tata Punch EV,1200000,784
+68,Female,1552985,Doctor,Meghalaya,8,BMW iX,14000000,93
+61,Female,1145061,Lawyer,Tripura,1,Tata Nexon,1700000,456
+78,Male,648925,Artist,Arunachal Pradesh,3,MG Comet EV,700000,731
+41,Male,519807,Doctor,Andhra Pradesh,4,Strom Motors R3,500000,304
+26,Male,1598328,Healthcare,Karnataka,6,Tata Tiago,900000,158
+28,Female,1214463,Entertainer,Assam,4,Hyundai Kona Electric,7400000,784
+75,Male,833693,Entertainer,Kerala,1,Porsche Taycan,20000000,188
+65,Female,317027,Homemaker,Telangana,2,BMW i7,22500000,754
+46,Male,457938,Politician,Jharkhand,4,BMW iX,14000000,132
+57,Male,1522308,Doctor,Goa,5,BMW iX,14000000,518
+25,Female,513750,Professor,Chhattisgarh,1,Tata Punch EV,1200000,483
+61,Male,1407338,Healthcare,West Bengal,6,Mahindra XUV 400,1800000,513
+42,Male,653305,Homemaker,Assam,3,Rolls-Royce Spectre,75000000,784
+43,Female,1302699,Healthcare,Odisha,8,Tata Tiago,900000,883
+69,Female,1623213,Entertainer,Uttarakhand,5,Porsche Taycan,20000000,176
+44,Male,1491710,Entertainer,Maharashtra,3,Strom Motors R3,500000,380
+61,Male,1523196,Homemaker,Jharkhand,3,Audi e-tron,12500000,132
+20,Male,364222,Professor,Manipur,8,Mahindra XUV 400,1800000,287
+60,Male,567845,Businessman,Tamil Nadu,4,Rolls-Royce Spectre,75000000,919
+22,Female,1498936,Businessman,Nagaland,5,MG ZS EV,2200000,339
+62,Female,1978371,Homemaker,Uttarakhand,6,Audi e-tron,12500000,176
+46,Female,435787,Lawyer,Rajasthan,7,Rolls-Royce Spectre,75000000,456
+19,Male,697362,Entertainer,Haryana,5,Porsche Taycan,20000000,345
+26,Female,834382,Businessman,West Bengal,8,Tata Tiago,900000,513
+68,Female,892600,Engineer,Goa,1,Tata Nexon,1700000,518
+38,Female,694506,Doctor,Rajasthan,8,Rolls-Royce Spectre,75000000,456
+37,Female,621443,Engineer,Maharashtra,2,Tata Nexon,1700000,380
+68,Male,528750,Homemaker,Kerala,7,Hyundai Kona Electric,7400000,188
+34,Female,855112,Doctor,Goa,6,Mahindra XUV 400,1800000,518
+32,Female,1195321,Doctor,Meghalaya,2,MG ZS EV,2200000,93
+41,Male,1487026,Homemaker,Mizoram,2,Audi e-tron,12500000,763
+53,Female,1608417,Homemaker,Mizoram,7,MG Comet EV,700000,763
+36,Male,1877790,Executive,Himachal Pradesh,2,Audi e-tron,12500000,144
+40,Male,1897249,Businessman,Uttarakhand,2,MG ZS EV,2200000,176
+61,Female,1700053,Politician,Andhra Pradesh,4,Strom Motors R3,500000,304
+37,Male,419340,Healthcare,Sikkim,8,Tata Nexon,1700000,275
+49,Male,1216099,Engineer,Uttarakhand,3,Tata Punch EV,1200000,176
+29,Male,434198,Businessman,Sikkim,4,Tata Nexon,1700000,275
+49,Female,1274577,Businessman,Uttarakhand,3,BMW iX,14000000,176
+67,Male,1344783,Lawyer,Andhra Pradesh,4,BMW iX,14000000,304
+60,Female,1676748,Professor,Arunachal Pradesh,7,Kia EV6,6300000,731
+66,Male,283964,Homemaker,Kerala,1,Hyundai Kona Electric,7400000,188
+24,Male,1834756,Engineer,Manipur,2,Mahindra XUV 400,1800000,287
+19,Male,791751,Lawyer,Sikkim,1,Kia EV6,6300000,275
+59,Female,465755,Healthcare,Haryana,4,Strom Motors R3,500000,345
+20,Female,526109,Executive,Manipur,7,Tata Nexon,1700000,287
+75,Male,628091,Lawyer,Tamil Nadu,1,Porsche Taycan,20000000,919
+52,Female,1816934,Executive,Odisha,8,BMW iX,14000000,883
+54,Female,437138,Politician,Sikkim,3,Mahindra XUV 400,1800000,275
+63,Male,750991,Executive,Nagaland,6,Tata Tiago,900000,339
+20,Female,955784,Lawyer,Mizoram,7,BMW i7,22500000,763
+61,Male,1570743,Homemaker,Uttar Pradesh,5,BYD Seal,4500000,216
+64,Female,1230143,Engineer,Sikkim,6,BYD Seal,4500000,275
+55,Female,1893069,Healthcare,West Bengal,2,Rolls-Royce Spectre,75000000,513
+50,Male,1722601,Businessman,Mizoram,2,BYD Seal,4500000,763
+50,Female,486765,Politician,Telangana,1,BYD Seal,4500000,754
+38,Male,1249661,Lawyer,Mizoram,1,Porsche Taycan,20000000,763
+35,Male,1971923,Homemaker,Goa,6,Kia EV6,6300000,518
+52,Male,1577353,Engineer,Uttar Pradesh,7,Porsche Taycan,20000000,216
+59,Female,1743478,Doctor,Maharashtra,1,BMW i7,22500000,380
+78,Male,1003039,Businessman,Gujarat,8,Mahindra XUV 400,1800000,510
+46,Male,1216301,Professor,Rajasthan,6,BYD Seal,4500000,456
+30,Male,606233,Politician,Karnataka,7,Hyundai Kona Electric,7400000,158
+40,Male,631717,Engineer,Tripura,5,Tata Nexon,1700000,456
+28,Female,1742120,Entertainer,Haryana,4,Tata Tiago,900000,345
+26,Female,399111,Artist,Mizoram,4,MG Comet EV,700000,763
+69,Female,1222072,Doctor,Mizoram,2,BMW iX,14000000,763
+20,Female,493018,Doctor,Nagaland,4,Tata Nexon,1700000,339
+53,Male,644861,Entertainer,West Bengal,2,BMW iX,14000000,513
+63,Male,1032639,Politician,Arunachal Pradesh,7,Porsche Taycan,20000000,731
+79,Female,632095,Healthcare,Maharashtra,3,BYD Seal,4500000,380
+58,Male,1461434,Entertainer,Tripura,1,Audi e-tron,12500000,456
+35,Male,658944,Entertainer,Maharashtra,5,BYD Seal,4500000,380
+63,Female,377504,Businessman,Gujarat,6,MG Comet EV,700000,510
+26,Female,272750,Doctor,Gujarat,7,Porsche Taycan,20000000,510
+28,Female,1565354,Businessman,Assam,8,BMW iX,14000000,784
+44,Male,231036,Professor,Tamil Nadu,1,BMW i7,22500000,919
+59,Female,1670224,Doctor,Tripura,5,Kia EV6,6300000,456
+66,Female,1265236,Businessman,Uttarakhand,6,Tata Punch EV,1200000,176
+71,Female,1037150,Lawyer,Manipur,6,Porsche Taycan,20000000,287
+41,Male,1346060,Healthcare,Uttar Pradesh,5,BYD Seal,4500000,216
+78,Male,1744108,Lawyer,Rajasthan,6,Rolls-Royce Spectre,75000000,456
+19,Male,1223920,Healthcare,Rajasthan,7,BYD Seal,4500000,456
+80,Female,677348,Businessman,Telangana,3,BMW iX,14000000,754
+21,Female,833935,Executive,Telangana,5,Tata Punch EV,1200000,754
+77,Female,918683,Politician,Nagaland,1,MG Comet EV,700000,339
+61,Female,614689,Homemaker,Nagaland,7,Hyundai Kona Electric,7400000,339
+42,Male,1331273,Artist,Karnataka,3,Strom Motors R3,500000,158
+37,Male,741532,Healthcare,Odisha,2,Kia EV6,6300000,883
+38,Male,1234101,Artist,West Bengal,1,Kia EV6,6300000,513
+43,Female,1712398,Politician,Tripura,7,BMW i7,22500000,456
+27,Male,692373,Professor,Maharashtra,6,Audi e-tron,12500000,380
+21,Male,510249,Engineer,Himachal Pradesh,1,Mahindra XUV 400,1800000,144
+50,Male,1959809,Executive,Himachal Pradesh,8,MG Comet EV,700000,144
+18,Male,616891,Healthcare,Andhra Pradesh,8,Tata Punch EV,1200000,304
+62,Male,959278,Politician,Karnataka,3,MG Comet EV,700000,158
+47,Female,635277,Homemaker,Karnataka,6,BYD Seal,4500000,158
+47,Male,1712175,Artist,Sikkim,1,Rolls-Royce Spectre,75000000,275
+65,Male,1882904,Politician,Jharkhand,8,Tata Punch EV,1200000,132
+28,Male,1592900,Lawyer,Bihar,7,Tata Nexon,1700000,906
+58,Male,315424,Healthcare,Kerala,4,BMW i7,22500000,188
+72,Female,1055718,Politician,Uttar Pradesh,8,BYD Seal,4500000,216
+69,Female,1405113,Artist,Meghalaya,5,Audi e-tron,12500000,93
+32,Male,833411,Politician,Kerala,2,MG Comet EV,700000,188
+55,Female,258938,Doctor,Goa,3,Rolls-Royce Spectre,75000000,518
+63,Male,1315262,Healthcare,West Bengal,4,Porsche Taycan,20000000,513
+57,Female,240326,Professor,Rajasthan,5,Hyundai Kona Electric,7400000,456
+22,Male,232364,Engineer,Uttarakhand,4,Hyundai Kona Electric,7400000,176
+20,Female,921322,Healthcare,Andhra Pradesh,3,Strom Motors R3,500000,304
+63,Female,1932869,Homemaker,Haryana,7,Kia EV6,6300000,345
+78,Female,253952,Politician,Kerala,4,Kia EV6,6300000,188
+24,Female,1125127,Engineer,Odisha,2,MG Comet EV,700000,883
+34,Male,742206,Lawyer,Gujarat,6,MG Comet EV,700000,510
+52,Male,1572838,Artist,Meghalaya,4,BMW iX,14000000,93
+62,Male,544407,Artist,Manipur,5,Tata Punch EV,1200000,287
+30,Female,1474003,Lawyer,Himachal Pradesh,8,Porsche Taycan,20000000,144
+52,Male,1545122,Entertainer,Jharkhand,4,Tata Punch EV,1200000,132
+22,Male,1609921,Engineer,Odisha,8,Mahindra XUV 400,1800000,883
+24,Male,1768422,Doctor,Goa,6,BMW i7,22500000,518
+18,Male,487907,Homemaker,Tamil Nadu,2,Rolls-Royce Spectre,75000000,919
+70,Male,1571447,Executive,Uttarakhand,4,Tata Nexon,1700000,176
+27,Male,1802276,Executive,Odisha,7,Hyundai Kona Electric,7400000,883
+32,Female,1897251,Executive,Tripura,8,Porsche Taycan,20000000,456
+49,Male,319858,Politician,Kerala,5,Tata Tiago,900000,188
+26,Male,812661,Artist,Odisha,6,Strom Motors R3,500000,883
+64,Male,942504,Businessman,Sikkim,6,BMW iX,14000000,275
+20,Female,1652413,Healthcare,Haryana,8,Audi e-tron,12500000,345
+62,Female,650772,Lawyer,Arunachal Pradesh,7,BMW i7,22500000,731
+32,Female,1234365,Healthcare,Andhra Pradesh,2,Porsche Taycan,20000000,304
+37,Female,694091,Businessman,West Bengal,3,Strom Motors R3,500000,513
+23,Male,909717,Doctor,Gujarat,7,Hyundai Kona Electric,7400000,510
+44,Male,1005005,Engineer,Himachal Pradesh,3,Hyundai Kona Electric,7400000,144
+79,Female,264995,Doctor,Meghalaya,7,MG ZS EV,2200000,93
+64,Male,1741637,Healthcare,Assam,2,MG ZS EV,2200000,784
+38,Male,1442866,Politician,Madhya Pradesh,3,Tata Tiago,900000,877
+68,Female,900437,Artist,Gujarat,4,MG Comet EV,700000,510
+76,Female,464576,Lawyer,West Bengal,1,Audi e-tron,12500000,513
+46,Male,1551390,Professor,Karnataka,3,Tata Tiago,900000,158
+26,Male,1431112,Professor,Andhra Pradesh,6,Mahindra XUV 400,1800000,304
+41,Male,1749094,Artist,Assam,3,Tata Nexon,1700000,784
+52,Female,769537,Doctor,Odisha,5,Mahindra XUV 400,1800000,883
+34,Male,1274810,Doctor,Goa,1,MG Comet EV,700000,518
+62,Male,1886279,Politician,Maharashtra,7,Tata Nexon,1700000,380
+57,Female,591014,Politician,Kerala,1,MG Comet EV,700000,188
+66,Female,1149105,Healthcare,Maharashtra,5,Mahindra XUV 400,1800000,380
+38,Female,413678,Professor,Sikkim,5,Strom Motors R3,500000,275
+43,Male,337376,Businessman,Nagaland,2,MG Comet EV,700000,339
+43,Male,1331951,Engineer,Mizoram,4,BYD Seal,4500000,763
+42,Female,1828231,Businessman,Sikkim,5,Tata Tiago,900000,275
+31,Male,442031,Professor,Mizoram,5,Strom Motors R3,500000,763
+21,Female,919178,Homemaker,Haryana,3,Tata Nexon,1700000,345
+58,Male,787568,Healthcare,West Bengal,5,Kia EV6,6300000,513
+67,Male,358204,Healthcare,Rajasthan,5,MG ZS EV,2200000,456
+44,Female,594187,Entertainer,Jharkhand,7,Rolls-Royce Spectre,75000000,132
+64,Female,1816963,Doctor,Chhattisgarh,4,Mahindra XUV 400,1800000,483
+64,Male,1828237,Engineer,Maharashtra,1,Hyundai Kona Electric,7400000,380
+54,Female,1550832,Engineer,Rajasthan,5,BMW i7,22500000,456
+25,Male,1583470,Lawyer,Nagaland,2,Tata Nexon,1700000,339
+68,Male,1516864,Entertainer,Meghalaya,3,Hyundai Kona Electric,7400000,93
+35,Male,1701466,Businessman,Karnataka,2,MG Comet EV,700000,158
+73,Female,1431563,Doctor,Rajasthan,4,Strom Motors R3,500000,456
+77,Male,699305,Politician,Himachal Pradesh,5,MG ZS EV,2200000,144
+53,Male,484420,Politician,Bihar,5,Mahindra XUV 400,1800000,906
+53,Male,1817866,Lawyer,West Bengal,8,Tata Punch EV,1200000,513
+31,Female,579333,Businessman,Rajasthan,1,Audi e-tron,12500000,456
+80,Female,1350058,Healthcare,Rajasthan,5,Hyundai Kona Electric,7400000,456
+18,Male,337715,Artist,Karnataka,8,BYD Seal,4500000,158
+36,Female,499840,Doctor,Andhra Pradesh,1,Tata Punch EV,1200000,304
+18,Male,293958,Doctor,Kerala,8,Rolls-Royce Spectre,75000000,188
+38,Female,821257,Doctor,Meghalaya,2,Kia EV6,6300000,93
+55,Male,650614,Artist,Odisha,3,Tata Punch EV,1200000,883
+36,Female,1511362,Entertainer,Jharkhand,6,Hyundai Kona Electric,7400000,132
+56,Female,222254,Executive,Manipur,4,BMW iX,14000000,287
+80,Female,1274727,Lawyer,Jharkhand,4,Audi e-tron,12500000,132
+72,Female,333899,Artist,Chhattisgarh,8,Tata Punch EV,1200000,483
+47,Male,1319149,Homemaker,Andhra Pradesh,2,BYD Seal,4500000,304
+57,Male,616808,Healthcare,Tamil Nadu,6,MG Comet EV,700000,919
+38,Male,1654491,Businessman,Himachal Pradesh,4,Tata Nexon,1700000,144
+25,Female,828140,Politician,Goa,2,Porsche Taycan,20000000,518
+72,Female,1763838,Doctor,Odisha,1,Tata Nexon,1700000,883
+28,Male,1423614,Lawyer,Punjab,5,Kia EV6,6300000,195
+56,Male,588850,Healthcare,Karnataka,8,BMW iX,14000000,158
+43,Male,323549,Doctor,Jharkhand,6,MG ZS EV,2200000,132
+20,Male,1023157,Lawyer,Sikkim,3,BYD Seal,4500000,275
+33,Male,323950,Businessman,Rajasthan,2,BMW i7,22500000,456
+27,Male,1391095,Artist,Uttarakhand,5,Tata Punch EV,1200000,176
+44,Female,1272596,Professor,Tamil Nadu,8,BYD Seal,4500000,919
+25,Female,505042,Healthcare,Rajasthan,7,BMW i7,22500000,456
+37,Female,809443,Politician,Rajasthan,8,Hyundai Kona Electric,7400000,456
+52,Female,1424444,Entertainer,Uttarakhand,1,Porsche Taycan,20000000,176
+70,Female,1351217,Healthcare,Arunachal Pradesh,8,Mahindra XUV 400,1800000,731
+44,Male,1410784,Professor,Telangana,7,Mahindra XUV 400,1800000,754
+41,Female,1310351,Lawyer,Sikkim,8,Kia EV6,6300000,275
+18,Male,962500,Professor,Tripura,7,Tata Tiago,900000,456
+41,Female,747358,Businessman,Andhra Pradesh,1,Rolls-Royce Spectre,75000000,304
+54,Female,471145,Homemaker,Manipur,6,Mahindra XUV 400,1800000,287
+39,Female,249602,Executive,Nagaland,2,Mahindra XUV 400,1800000,339
+23,Female,1712957,Healthcare,Manipur,2,Kia EV6,6300000,287
+70,Female,277232,Politician,Nagaland,6,Mahindra XUV 400,1800000,339
+69,Male,1477091,Artist,Madhya Pradesh,6,Porsche Taycan,20000000,877
+63,Male,550816,Engineer,Tamil Nadu,1,BMW i7,22500000,919
+23,Female,291715,Homemaker,Jharkhand,7,MG Comet EV,700000,132
+40,Male,354284,Businessman,Haryana,2,MG Comet EV,700000,345
+77,Female,1339019,Artist,Jharkhand,3,Tata Tiago,900000,132
+46,Male,1800853,Professor,Himachal Pradesh,3,BYD Seal,4500000,144
+33,Male,1233577,Lawyer,Haryana,2,Tata Punch EV,1200000,345
+29,Female,1483577,Politician,Andhra Pradesh,7,BMW iX,14000000,304
+28,Female,513338,Businessman,Madhya Pradesh,6,Strom Motors R3,500000,877
+68,Female,1995461,Executive,Uttarakhand,2,Strom Motors R3,500000,176
+75,Female,397996,Artist,Telangana,7,Tata Punch EV,1200000,754
+57,Female,450868,Entertainer,Maharashtra,8,BYD Seal,4500000,380
+70,Female,1193903,Artist,Himachal Pradesh,3,Mahindra XUV 400,1800000,144
+28,Female,210220,Homemaker,Madhya Pradesh,4,Tata Nexon,1700000,877
+58,Male,1704429,Artist,Nagaland,2,Rolls-Royce Spectre,75000000,339
+46,Female,459870,Homemaker,Gujarat,6,Porsche Taycan,20000000,510
+54,Male,1544284,Professor,Uttar Pradesh,6,Hyundai Kona Electric,7400000,216
+43,Female,1674115,Entertainer,Nagaland,5,Mahindra XUV 400,1800000,339
+63,Male,1012575,Engineer,Mizoram,3,Tata Punch EV,1200000,763
+48,Female,1070766,Entertainer,Punjab,6,Strom Motors R3,500000,195
+63,Female,530719,Businessman,Andhra Pradesh,1,Tata Tiago,900000,304
+40,Female,1796689,Engineer,Rajasthan,6,Mahindra XUV 400,1800000,456
+36,Male,316014,Executive,Rajasthan,2,MG Comet EV,700000,456
+71,Male,352496,Businessman,Assam,5,BYD Seal,4500000,784
+24,Male,1074195,Artist,Rajasthan,4,Tata Nexon,1700000,456
+33,Male,898131,Entertainer,Nagaland,6,Hyundai Kona Electric,7400000,339
+18,Male,401953,Executive,Meghalaya,8,BMW i7,22500000,93
+34,Female,1106518,Lawyer,Madhya Pradesh,6,Tata Nexon,1700000,877
+62,Male,1018713,Professor,Gujarat,1,Rolls-Royce Spectre,75000000,510
+25,Male,1991683,Entertainer,Kerala,5,Tata Punch EV,1200000,188
+56,Male,1214515,Executive,Himachal Pradesh,3,BMW iX,14000000,144
+65,Male,622617,Homemaker,Tripura,6,Strom Motors R3,500000,456
+53,Female,362124,Professor,Tamil Nadu,1,Audi e-tron,12500000,919
+20,Male,1756696,Doctor,Sikkim,1,Mahindra XUV 400,1800000,275
+75,Male,1628473,Homemaker,Nagaland,1,MG Comet EV,700000,339
+74,Female,1556119,Lawyer,Himachal Pradesh,2,Tata Punch EV,1200000,144
+38,Female,612061,Politician,Madhya Pradesh,8,Kia EV6,6300000,877
+55,Male,947023,Politician,Manipur,7,Rolls-Royce Spectre,75000000,287
+79,Female,371402,Artist,Madhya Pradesh,2,BYD Seal,4500000,877
+18,Female,460630,Professor,Uttarakhand,2,Strom Motors R3,500000,176
+65,Female,426121,Politician,Himachal Pradesh,4,Mahindra XUV 400,1800000,144
+42,Female,1598794,Entertainer,Madhya Pradesh,4,Tata Nexon,1700000,877
+23,Female,1094781,Artist,Bihar,3,Tata Tiago,900000,906
+68,Male,1460515,Engineer,Manipur,6,Mahindra XUV 400,1800000,287
+34,Female,1545600,Healthcare,Mizoram,8,Mahindra XUV 400,1800000,763
+49,Male,1567407,Healthcare,Punjab,7,Rolls-Royce Spectre,75000000,195
+22,Female,1634145,Artist,Haryana,7,Rolls-Royce Spectre,75000000,345
+53,Male,621900,Homemaker,Gujarat,2,BYD Seal,4500000,510
+74,Female,283695,Artist,West Bengal,6,Strom Motors R3,500000,513
+56,Male,718648,Businessman,Bihar,7,BMW i7,22500000,906
+74,Female,1144624,Engineer,Assam,2,Tata Tiago,900000,784
+61,Male,893060,Healthcare,Meghalaya,6,Strom Motors R3,500000,93
+57,Female,296928,Engineer,Bihar,7,Mahindra XUV 400,1800000,906
+70,Female,1694010,Healthcare,Haryana,3,MG Comet EV,700000,345
+35,Male,1069172,Lawyer,Andhra Pradesh,7,Hyundai Kona Electric,7400000,304
+74,Male,968674,Doctor,Meghalaya,6,BYD Seal,4500000,93
+28,Female,262681,Businessman,Kerala,3,BMW iX,14000000,188
+20,Male,1204757,Politician,Nagaland,3,Audi e-tron,12500000,339
+19,Female,968457,Executive,Maharashtra,8,MG ZS EV,2200000,380
+44,Female,1232967,Professor,Arunachal Pradesh,5,Tata Tiago,900000,731
+40,Male,1792393,Homemaker,Meghalaya,7,Mahindra XUV 400,1800000,93
+46,Female,1661589,Entertainer,Bihar,2,Rolls-Royce Spectre,75000000,906
+28,Male,1905345,Engineer,Bihar,5,BMW i7,22500000,906
+46,Male,939980,Healthcare,Kerala,8,BMW iX,14000000,188
+31,Female,447563,Executive,Tamil Nadu,2,MG ZS EV,2200000,919
+32,Female,1038507,Healthcare,Madhya Pradesh,2,Kia EV6,6300000,877
+47,Female,1308098,Artist,Jharkhand,6,BYD Seal,4500000,132
+71,Male,1273113,Homemaker,Sikkim,6,Kia EV6,6300000,275
+46,Female,1783610,Professor,Telangana,4,Strom Motors R3,500000,754
+30,Female,636064,Professor,Madhya Pradesh,4,Tata Nexon,1700000,877
+49,Male,1781278,Executive,Mizoram,6,MG Comet EV,700000,763
+33,Male,1945821,Executive,Haryana,8,MG Comet EV,700000,345
+67,Female,487083,Entertainer,West Bengal,7,MG ZS EV,2200000,513
+54,Female,956443,Engineer,Meghalaya,5,MG ZS EV,2200000,93
+60,Female,392810,Professor,Jharkhand,1,Tata Tiago,900000,132
+25,Male,607943,Artist,Chhattisgarh,1,BYD Seal,4500000,483
+36,Male,607773,Professor,Mizoram,7,Mahindra XUV 400,1800000,763
+72,Female,1302843,Executive,Tamil Nadu,3,Rolls-Royce Spectre,75000000,919
+68,Male,961324,Artist,Punjab,8,Audi e-tron,12500000,195
+62,Male,1190387,Artist,Goa,6,MG ZS EV,2200000,518
+54,Male,1423159,Businessman,Odisha,4,Audi e-tron,12500000,883
+54,Female,588863,Businessman,West Bengal,1,BYD Seal,4500000,513
+39,Male,1660076,Entertainer,Tamil Nadu,4,Rolls-Royce Spectre,75000000,919
+24,Female,1321780,Doctor,Haryana,3,BMW i7,22500000,345
+38,Male,1089815,Executive,Nagaland,6,Porsche Taycan,20000000,339
+20,Male,1692272,Entertainer,Nagaland,7,Hyundai Kona Electric,7400000,339
+21,Male,1809108,Professor,Uttar Pradesh,1,MG ZS EV,2200000,216
+65,Male,633474,Homemaker,Kerala,1,Tata Nexon,1700000,188
+53,Male,1344095,Lawyer,Telangana,6,Tata Tiago,900000,754
+40,Male,1234132,Professor,Punjab,1,Tata Nexon,1700000,195
+18,Female,1604387,Homemaker,Telangana,4,Mahindra XUV 400,1800000,754
+38,Male,727834,Artist,Telangana,1,Kia EV6,6300000,754
+52,Male,1737394,Healthcare,Uttar Pradesh,6,Tata Nexon,1700000,216
+30,Female,1760785,Businessman,Assam,6,Tata Tiago,900000,784
+63,Female,1888438,Healthcare,Arunachal Pradesh,4,Porsche Taycan,20000000,731
+70,Male,957380,Entertainer,Himachal Pradesh,8,Tata Punch EV,1200000,144
+49,Male,590592,Politician,Uttarakhand,4,Kia EV6,6300000,176
+37,Female,545370,Doctor,Chhattisgarh,3,Audi e-tron,12500000,483
+29,Male,756359,Lawyer,Chhattisgarh,1,Rolls-Royce Spectre,75000000,483
+74,Male,1927738,Engineer,Haryana,5,Rolls-Royce Spectre,75000000,345
+43,Male,729080,Doctor,Bihar,5,Tata Punch EV,1200000,906
+44,Male,1651601,Executive,Punjab,2,Audi e-tron,12500000,195
+60,Male,998104,Lawyer,Tamil Nadu,6,BMW i7,22500000,919
+47,Male,1047756,Professor,Maharashtra,2,Kia EV6,6300000,380
+68,Male,1548714,Healthcare,Punjab,2,MG Comet EV,700000,195
+54,Female,1814072,Politician,Himachal Pradesh,7,Hyundai Kona Electric,7400000,144
+38,Male,1854010,Engineer,Haryana,3,Audi e-tron,12500000,345
+70,Female,1298913,Homemaker,Kerala,1,Hyundai Kona Electric,7400000,188
+73,Male,286547,Businessman,Kerala,2,Rolls-Royce Spectre,75000000,188
+38,Female,852263,Artist,Arunachal Pradesh,8,Tata Punch EV,1200000,731
+37,Male,572654,Healthcare,Madhya Pradesh,4,Strom Motors R3,500000,877
+50,Female,1366246,Businessman,Uttar Pradesh,5,Rolls-Royce Spectre,75000000,216
+68,Female,553370,Professor,Kerala,2,Kia EV6,6300000,188
+72,Female,1745746,Lawyer,Assam,4,Porsche Taycan,20000000,784
+55,Male,1628966,Doctor,Karnataka,7,Mahindra XUV 400,1800000,158
+50,Female,1242007,Professor,Maharashtra,8,Strom Motors R3,500000,380
+57,Male,523807,Entertainer,West Bengal,1,MG Comet EV,700000,513
+73,Male,1492548,Professor,Rajasthan,6,Kia EV6,6300000,456
+52,Female,976691,Doctor,Goa,4,Tata Nexon,1700000,518
+62,Female,1551279,Professor,Mizoram,5,Audi e-tron,12500000,763
+49,Male,410833,Lawyer,Haryana,1,BMW i7,22500000,345
+42,Female,1405468,Doctor,Kerala,5,Mahindra XUV 400,1800000,188
+52,Male,1077662,Executive,Punjab,8,Kia EV6,6300000,195
+40,Male,715667,Homemaker,Madhya Pradesh,4,BMW i7,22500000,877
+73,Male,1650783,Artist,Kerala,7,BYD Seal,4500000,188
+38,Male,1854185,Homemaker,Mizoram,1,BYD Seal,4500000,763
+80,Male,474443,Politician,Rajasthan,7,BYD Seal,4500000,456
+55,Female,454448,Engineer,West Bengal,1,BMW iX,14000000,513
+48,Male,1710849,Engineer,Sikkim,1,Tata Punch EV,1200000,275
+70,Male,1945806,Entertainer,Nagaland,8,Tata Nexon,1700000,339
+77,Female,612893,Businessman,Madhya Pradesh,1,Strom Motors R3,500000,877
+35,Male,1933640,Engineer,Kerala,6,MG Comet EV,700000,188
+46,Female,251662,Engineer,Kerala,3,Hyundai Kona Electric,7400000,188
+29,Female,1874824,Politician,Himachal Pradesh,3,Tata Nexon,1700000,144
+48,Male,714385,Artist,Odisha,7,Audi e-tron,12500000,883
+45,Male,242156,Artist,Maharashtra,8,Rolls-Royce Spectre,75000000,380
+27,Female,1368916,Lawyer,Himachal Pradesh,3,Strom Motors R3,500000,144
+22,Female,822793,Executive,Sikkim,4,Mahindra XUV 400,1800000,275
+23,Female,972718,Professor,Rajasthan,8,Tata Tiago,900000,456
+46,Male,1398894,Executive,Chhattisgarh,8,Porsche Taycan,20000000,483
+58,Female,417300,Lawyer,Arunachal Pradesh,1,Tata Nexon,1700000,731
+45,Female,1724118,Homemaker,Haryana,2,MG Comet EV,700000,345
+33,Female,1423132,Artist,Tamil Nadu,4,Rolls-Royce Spectre,75000000,919
+61,Female,1960138,Engineer,Kerala,8,Tata Tiago,900000,188
+27,Male,1062284,Politician,Himachal Pradesh,8,MG ZS EV,2200000,144
+48,Male,1303292,Politician,Haryana,7,BMW iX,14000000,345
+29,Male,1587093,Engineer,Haryana,7,MG Comet EV,700000,345
+40,Female,939817,Engineer,Gujarat,2,BYD Seal,4500000,510
+77,Male,781811,Doctor,Himachal Pradesh,4,Kia EV6,6300000,144
+65,Female,1538901,Businessman,Jharkhand,4,Audi e-tron,12500000,132
+69,Male,1313775,Professor,Jharkhand,2,Audi e-tron,12500000,132
+44,Female,295469,Executive,Uttarakhand,8,BYD Seal,4500000,176
+37,Male,804132,Healthcare,Bihar,6,Rolls-Royce Spectre,75000000,906
+55,Male,910199,Homemaker,Mizoram,2,Rolls-Royce Spectre,75000000,763
+21,Female,311112,Homemaker,Uttar Pradesh,6,Mahindra XUV 400,1800000,216
+30,Female,1115250,Businessman,West Bengal,6,BYD Seal,4500000,513
+59,Male,1717246,Homemaker,Goa,2,BYD Seal,4500000,518
+21,Female,1862372,Professor,Uttarakhand,6,BMW i7,22500000,176
+31,Male,287080,Lawyer,Odisha,2,Rolls-Royce Spectre,75000000,883
+45,Male,458991,Professor,Nagaland,3,Kia EV6,6300000,339
+37,Male,1215077,Healthcare,Mizoram,2,BYD Seal,4500000,763
+68,Female,1471334,Executive,Goa,7,Tata Punch EV,1200000,518
+45,Male,1168783,Executive,Telangana,5,Audi e-tron,12500000,754
+34,Female,1163465,Entertainer,Kerala,6,Tata Punch EV,1200000,188
+60,Female,608960,Artist,Manipur,1,BMW iX,14000000,287
+76,Female,1556499,Executive,West Bengal,4,Audi e-tron,12500000,513
+45,Male,414337,Executive,Manipur,8,BMW i7,22500000,287
+45,Male,1186496,Politician,Kerala,8,Rolls-Royce Spectre,75000000,188
+74,Female,1114783,Executive,Telangana,5,Rolls-Royce Spectre,75000000,754
+49,Female,1158019,Homemaker,Madhya Pradesh,1,BMW iX,14000000,877
+39,Female,634661,Artist,Andhra Pradesh,3,BMW iX,14000000,304
+65,Male,1963673,Lawyer,Gujarat,7,Strom Motors R3,500000,510
+72,Female,938516,Politician,Nagaland,7,BYD Seal,4500000,339
+73,Female,940894,Artist,West Bengal,3,BMW i7,22500000,513
+75,Female,713567,Entertainer,Manipur,5,Mahindra XUV 400,1800000,287
+34,Female,1402593,Healthcare,Chhattisgarh,3,Tata Nexon,1700000,483
+20,Female,1258373,Entertainer,West Bengal,8,BMW iX,14000000,513
+24,Male,1500622,Healthcare,Assam,2,Strom Motors R3,500000,784
+52,Male,714715,Politician,Meghalaya,3,Tata Tiago,900000,93
+27,Female,349625,Businessman,Punjab,2,Strom Motors R3,500000,195
+80,Female,790609,Doctor,West Bengal,4,Tata Punch EV,1200000,513
+42,Male,1888879,Entertainer,Arunachal Pradesh,7,MG Comet EV,700000,731
+23,Female,1108240,Lawyer,Kerala,8,BYD Seal,4500000,188
+62,Female,1336266,Professor,Gujarat,2,Strom Motors R3,500000,510
+45,Female,1836951,Doctor,Rajasthan,4,Strom Motors R3,500000,456
+59,Male,1805196,Doctor,Haryana,3,Hyundai Kona Electric,7400000,345
+32,Female,1809407,Doctor,Tamil Nadu,3,BMW iX,14000000,919
+64,Male,1023920,Politician,Tripura,3,Mahindra XUV 400,1800000,456
+69,Male,1624627,Businessman,Punjab,6,Kia EV6,6300000,195
+52,Male,1203390,Engineer,Uttar Pradesh,8,BYD Seal,4500000,216
+62,Male,1453233,Doctor,Punjab,8,Mahindra XUV 400,1800000,195
+37,Female,1049467,Healthcare,Jharkhand,5,Kia EV6,6300000,132
+28,Female,1367676,Artist,Kerala,3,Porsche Taycan,20000000,188
+39,Female,530423,Doctor,Bihar,7,Hyundai Kona Electric,7400000,906
+27,Male,786903,Executive,Goa,1,Hyundai Kona Electric,7400000,518
+52,Female,1994823,Engineer,Tripura,7,Strom Motors R3,500000,456
+71,Male,1010942,Lawyer,West Bengal,7,MG Comet EV,700000,513
+59,Female,764090,Professor,Mizoram,5,Audi e-tron,12500000,763
+79,Female,1963289,Entertainer,Jharkhand,8,Tata Nexon,1700000,132
+45,Male,1679773,Entertainer,Tamil Nadu,4,Mahindra XUV 400,1800000,919
+47,Male,1599087,Artist,Odisha,5,BMW iX,14000000,883
+59,Male,1726990,Homemaker,Tripura,3,BMW iX,14000000,456
+33,Male,1159442,Politician,Manipur,4,Tata Nexon,1700000,287
+55,Male,995900,Politician,Gujarat,5,MG Comet EV,700000,510
+74,Male,679396,Entertainer,Goa,2,Audi e-tron,12500000,518
+78,Female,1806977,Artist,Assam,5,Kia EV6,6300000,784
+31,Male,515170,Homemaker,Gujarat,2,Rolls-Royce Spectre,75000000,510
+76,Male,404730,Engineer,Chhattisgarh,6,Tata Tiago,900000,483
+44,Female,1319551,Artist,Manipur,7,Tata Nexon,1700000,287
+80,Female,1995937,Entertainer,Maharashtra,4,Audi e-tron,12500000,380
+41,Male,1171590,Executive,Meghalaya,6,Mahindra XUV 400,1800000,93
+33,Male,387940,Lawyer,Tamil Nadu,3,BMW i7,22500000,919
+42,Male,887960,Professor,Punjab,4,BMW iX,14000000,195
+71,Female,840462,Lawyer,Manipur,3,Audi e-tron,12500000,287
+70,Male,461007,Businessman,Manipur,1,MG ZS EV,2200000,287
+20,Female,537747,Doctor,Manipur,8,Mahindra XUV 400,1800000,287
+28,Female,658436,Entertainer,Uttarakhand,8,Tata Tiago,900000,176
+64,Female,508547,Politician,Manipur,5,Hyundai Kona Electric,7400000,287
+48,Male,1255942,Businessman,Uttarakhand,4,Tata Tiago,900000,176
+26,Female,1580520,Politician,Meghalaya,6,Mahindra XUV 400,1800000,93
+34,Female,1601109,Lawyer,Tripura,2,Tata Nexon,1700000,456
+69,Male,1216682,Homemaker,Jharkhand,4,Rolls-Royce Spectre,75000000,132
+56,Male,1364988,Healthcare,Uttar Pradesh,1,BMW i7,22500000,216
+79,Male,1656498,Healthcare,Sikkim,5,BMW i7,22500000,275
+60,Female,997595,Engineer,Telangana,5,BMW i7,22500000,754
+20,Female,828055,Engineer,Odisha,4,Tata Punch EV,1200000,883
+67,Female,1981420,Businessman,Andhra Pradesh,4,Tata Tiago,900000,304
+76,Female,881829,Engineer,Rajasthan,7,BYD Seal,4500000,456
+18,Male,1320457,Artist,Chhattisgarh,3,BMW i7,22500000,483
+25,Female,1568229,Healthcare,Assam,6,BMW iX,14000000,784
+70,Female,255438,Artist,Gujarat,6,BYD Seal,4500000,510
+34,Female,1376164,Lawyer,Telangana,3,Kia EV6,6300000,754
+41,Female,959675,Homemaker,Mizoram,1,MG Comet EV,700000,763
+47,Female,1765942,Homemaker,Himachal Pradesh,1,BYD Seal,4500000,144
+44,Male,1440360,Politician,Bihar,5,Tata Tiago,900000,906
+43,Male,726369,Engineer,Sikkim,5,Rolls-Royce Spectre,75000000,275
+38,Male,1410564,Homemaker,Maharashtra,8,Rolls-Royce Spectre,75000000,380
+19,Male,352835,Executive,Jharkhand,6,Strom Motors R3,500000,132
+59,Female,1915142,Homemaker,Assam,2,Porsche Taycan,20000000,784
+73,Male,1866696,Executive,Goa,4,Porsche Taycan,20000000,518
+42,Male,1780098,Homemaker,Nagaland,8,Strom Motors R3,500000,339
+44,Male,1698947,Businessman,Manipur,8,Porsche Taycan,20000000,287
+51,Female,1140781,Entertainer,Mizoram,2,BMW iX,14000000,763
+25,Male,353235,Entertainer,Nagaland,6,Rolls-Royce Spectre,75000000,339
+32,Male,1903256,Doctor,Odisha,1,Tata Tiago,900000,883
+41,Male,1207061,Businessman,Nagaland,4,Rolls-Royce Spectre,75000000,339
+56,Male,809893,Professor,Gujarat,6,Porsche Taycan,20000000,510
+54,Male,992540,Entertainer,Andhra Pradesh,5,Kia EV6,6300000,304
+60,Male,1594155,Artist,Sikkim,2,Mahindra XUV 400,1800000,275
+35,Female,818404,Healthcare,Andhra Pradesh,2,Rolls-Royce Spectre,75000000,304
+48,Female,1736443,Artist,Chhattisgarh,7,Tata Nexon,1700000,483
+55,Female,1336679,Lawyer,Mizoram,3,Kia EV6,6300000,763
+43,Male,840008,Professor,Odisha,7,Audi e-tron,12500000,883
+65,Male,1336520,Entertainer,Andhra Pradesh,2,Rolls-Royce Spectre,75000000,304
+22,Male,1623159,Doctor,Mizoram,3,BYD Seal,4500000,763
+22,Female,1807676,Executive,Meghalaya,6,Tata Punch EV,1200000,93
+67,Female,360340,Doctor,Tripura,1,BMW iX,14000000,456
+44,Male,983342,Professor,Telangana,4,Porsche Taycan,20000000,754
+27,Female,1000302,Artist,Meghalaya,8,Kia EV6,6300000,93
+52,Female,461981,Homemaker,Kerala,7,Rolls-Royce Spectre,75000000,188
+38,Male,434318,Doctor,Sikkim,6,Tata Punch EV,1200000,275
+30,Male,241121,Homemaker,Meghalaya,5,MG Comet EV,700000,93
+48,Female,827038,Artist,West Bengal,4,Porsche Taycan,20000000,513
+52,Male,300689,Professor,Karnataka,8,Tata Nexon,1700000,158
+59,Female,1298620,Businessman,Meghalaya,7,Mahindra XUV 400,1800000,93
+77,Female,1845994,Healthcare,Andhra Pradesh,4,MG Comet EV,700000,304
+19,Female,1090770,Politician,Haryana,1,Kia EV6,6300000,345
+39,Male,1979537,Homemaker,Tamil Nadu,5,Tata Tiago,900000,919
+32,Male,904461,Executive,Mizoram,4,Rolls-Royce Spectre,75000000,763
+58,Female,1313491,Doctor,Karnataka,5,Tata Tiago,900000,158
+62,Female,342045,Engineer,Chhattisgarh,6,MG Comet EV,700000,483
+39,Female,561581,Professor,West Bengal,7,BYD Seal,4500000,513
+33,Male,238654,Businessman,Madhya Pradesh,3,Tata Nexon,1700000,877
+23,Female,677384,Executive,Meghalaya,3,Tata Punch EV,1200000,93
+41,Male,898691,Businessman,Maharashtra,5,Hyundai Kona Electric,7400000,380
+23,Female,1240596,Executive,Maharashtra,6,Tata Nexon,1700000,380
+65,Male,505067,Doctor,Manipur,4,Mahindra XUV 400,1800000,287
+24,Male,1072215,Executive,Sikkim,6,MG ZS EV,2200000,275
+30,Male,1809520,Businessman,Haryana,7,Tata Tiago,900000,345
+53,Male,1492441,Engineer,Meghalaya,2,BMW iX,14000000,93
+50,Male,729129,Businessman,Gujarat,5,Tata Punch EV,1200000,510
+44,Female,1261740,Artist,Nagaland,6,Tata Punch EV,1200000,339
+30,Female,656017,Businessman,Jharkhand,3,Porsche Taycan,20000000,132
+45,Male,662682,Engineer,Odisha,7,MG ZS EV,2200000,883
+32,Male,798796,Artist,Odisha,3,BMW i7,22500000,883
+72,Male,1578449,Homemaker,Jharkhand,8,Tata Punch EV,1200000,132
+45,Female,1438305,Healthcare,Nagaland,2,Strom Motors R3,500000,339
+26,Male,1867360,Doctor,Tripura,1,BMW i7,22500000,456
+41,Male,852861,Lawyer,Karnataka,2,Rolls-Royce Spectre,75000000,158
+18,Female,1237257,Engineer,Punjab,7,MG Comet EV,700000,195
+29,Female,1033529,Artist,Meghalaya,7,Tata Punch EV,1200000,93
+62,Male,1693438,Executive,West Bengal,3,Tata Nexon,1700000,513
+25,Female,1982865,Lawyer,Maharashtra,7,Audi e-tron,12500000,380
+33,Male,317400,Businessman,Jharkhand,2,BYD Seal,4500000,132
+48,Male,1489318,Healthcare,Bihar,1,BMW iX,14000000,906
+40,Male,1088421,Lawyer,Tripura,3,Tata Punch EV,1200000,456
+46,Female,1010050,Professor,Punjab,8,Kia EV6,6300000,195
+69,Female,1596129,Homemaker,Karnataka,3,BYD Seal,4500000,158
+47,Male,908951,Politician,Odisha,4,Tata Nexon,1700000,883
+47,Male,537433,Artist,Uttar Pradesh,2,Hyundai Kona Electric,7400000,216
+21,Female,1488286,Professor,Uttarakhand,6,Kia EV6,6300000,176
+52,Male,403627,Healthcare,Meghalaya,2,Hyundai Kona Electric,7400000,93
+29,Male,1947484,Artist,Kerala,2,Mahindra XUV 400,1800000,188
+41,Female,738362,Politician,Sikkim,2,Kia EV6,6300000,275
+40,Male,1976308,Politician,Assam,6,MG Comet EV,700000,784
+67,Male,667550,Executive,Rajasthan,1,BMW i7,22500000,456
+35,Male,267932,Executive,Nagaland,6,MG ZS EV,2200000,339
+55,Male,1705614,Artist,Sikkim,2,Hyundai Kona Electric,7400000,275
+39,Female,891140,Homemaker,Assam,5,Tata Nexon,1700000,784
+54,Male,811120,Healthcare,Kerala,5,Mahindra XUV 400,1800000,188
+32,Male,1683365,Homemaker,Mizoram,6,BYD Seal,4500000,763
+22,Male,677995,Healthcare,West Bengal,5,Audi e-tron,12500000,513
+80,Female,540966,Executive,Assam,5,Rolls-Royce Spectre,75000000,784
+19,Male,960200,Politician,West Bengal,5,BMW i7,22500000,513
+39,Female,1352867,Executive,Telangana,2,Mahindra XUV 400,1800000,754
+62,Male,436624,Entertainer,Jharkhand,1,Porsche Taycan,20000000,132
+52,Male,1810280,Healthcare,West Bengal,4,MG ZS EV,2200000,513
+68,Male,1651606,Homemaker,Tripura,1,MG ZS EV,2200000,456
+20,Male,590497,Doctor,Meghalaya,3,BMW iX,14000000,93
+39,Male,382934,Homemaker,Jharkhand,1,BMW iX,14000000,132
+36,Female,624575,Professor,Meghalaya,2,Audi e-tron,12500000,93
+77,Male,1706886,Engineer,Rajasthan,2,Porsche Taycan,20000000,456
+50,Male,324732,Entertainer,Tripura,1,Rolls-Royce Spectre,75000000,456
+71,Female,1333444,Politician,Mizoram,6,MG ZS EV,2200000,763
+61,Male,352216,Healthcare,Arunachal Pradesh,1,Rolls-Royce Spectre,75000000,731
+30,Male,1323180,Healthcare,Arunachal Pradesh,7,MG Comet EV,700000,731
+24,Male,1062570,Politician,Kerala,5,Audi e-tron,12500000,188
+74,Female,348552,Artist,Sikkim,1,Tata Punch EV,1200000,275
+55,Female,421602,Entertainer,Meghalaya,3,Hyundai Kona Electric,7400000,93
+56,Male,1980361,Entertainer,Bihar,1,Tata Tiago,900000,906
+78,Female,1750691,Professor,Rajasthan,1,Kia EV6,6300000,456
+40,Male,1264658,Professor,Bihar,7,Strom Motors R3,500000,906
+58,Male,244699,Doctor,Jharkhand,6,Rolls-Royce Spectre,75000000,132
+61,Male,1040431,Lawyer,Himachal Pradesh,4,BYD Seal,4500000,144
+62,Male,496927,Healthcare,Tamil Nadu,2,Mahindra XUV 400,1800000,919
+21,Male,344116,Politician,Maharashtra,2,Audi e-tron,12500000,380
+24,Female,1063175,Doctor,Rajasthan,4,BYD Seal,4500000,456
+75,Female,496654,Healthcare,Uttar Pradesh,4,MG ZS EV,2200000,216
+47,Female,1439716,Healthcare,Maharashtra,4,BYD Seal,4500000,380
+46,Female,1589203,Healthcare,West Bengal,6,BYD Seal,4500000,513
+28,Female,443400,Businessman,Uttar Pradesh,6,Strom Motors R3,500000,216
+24,Female,340547,Healthcare,Rajasthan,5,BYD Seal,4500000,456
+48,Male,1402539,Doctor,Arunachal Pradesh,4,Tata Punch EV,1200000,731
+71,Male,1498616,Engineer,Sikkim,1,Audi e-tron,12500000,275
+70,Male,1365837,Executive,Mizoram,8,MG Comet EV,700000,763
+43,Female,1881412,Executive,Assam,8,MG Comet EV,700000,784
+50,Female,1748888,Healthcare,Assam,3,Rolls-Royce Spectre,75000000,784
+64,Female,954384,Businessman,Madhya Pradesh,4,Tata Punch EV,1200000,877
+51,Male,792090,Entertainer,Jharkhand,6,Kia EV6,6300000,132
+28,Male,1727650,Healthcare,Arunachal Pradesh,3,Porsche Taycan,20000000,731
+43,Male,1730120,Executive,Haryana,5,Tata Tiago,900000,345
+25,Female,782639,Homemaker,Rajasthan,2,Kia EV6,6300000,456
+51,Male,1344828,Entertainer,Punjab,8,Tata Punch EV,1200000,195
+20,Male,349367,Artist,Himachal Pradesh,7,BYD Seal,4500000,144
+49,Male,1885158,Professor,Karnataka,5,BMW iX,14000000,158
+59,Female,431590,Entertainer,Andhra Pradesh,7,Tata Nexon,1700000,304
+23,Female,1797222,Professor,Madhya Pradesh,3,MG Comet EV,700000,877
+25,Male,1366394,Engineer,Karnataka,8,Kia EV6,6300000,158
+53,Male,822528,Professor,Gujarat,6,Hyundai Kona Electric,7400000,510
+75,Female,1171620,Executive,Punjab,7,BMW i7,22500000,195
+57,Male,607233,Lawyer,Rajasthan,2,MG ZS EV,2200000,456
+65,Female,371763,Politician,Bihar,7,BMW i7,22500000,906
+71,Female,209732,Doctor,Maharashtra,3,Rolls-Royce Spectre,75000000,380
+35,Male,1253328,Businessman,Jharkhand,4,BMW iX,14000000,132
+25,Female,1711461,Healthcare,Rajasthan,1,Tata Punch EV,1200000,456
+35,Female,204598,Homemaker,Karnataka,3,BYD Seal,4500000,158
+76,Female,1547771,Professor,Mizoram,4,BMW i7,22500000,763
+64,Female,981994,Entertainer,Andhra Pradesh,1,Rolls-Royce Spectre,75000000,304
+47,Female,828914,Businessman,Telangana,7,Hyundai Kona Electric,7400000,754
+24,Female,1755091,Engineer,Uttar Pradesh,3,Tata Nexon,1700000,216
+37,Male,299080,Entertainer,Telangana,1,Audi e-tron,12500000,754
+75,Male,1231670,Professor,Maharashtra,5,Mahindra XUV 400,1800000,380
+79,Male,1883413,Executive,Karnataka,3,Tata Nexon,1700000,158
+74,Female,736302,Doctor,West Bengal,7,Audi e-tron,12500000,513
+50,Male,1857751,Engineer,Arunachal Pradesh,7,Hyundai Kona Electric,7400000,731
+52,Female,1733931,Executive,Tamil Nadu,1,Tata Tiago,900000,919
+26,Female,584783,Professor,Nagaland,2,Hyundai Kona Electric,7400000,339
+36,Female,649257,Entertainer,Meghalaya,5,Kia EV6,6300000,93
+25,Male,1602319,Entertainer,Rajasthan,2,Tata Punch EV,1200000,456
+39,Female,1810088,Executive,Jharkhand,8,MG ZS EV,2200000,132
+29,Female,1081128,Politician,Meghalaya,5,BMW iX,14000000,93
+34,Female,276568,Artist,Arunachal Pradesh,2,Hyundai Kona Electric,7400000,731
+53,Male,626970,Professor,Arunachal Pradesh,6,BYD Seal,4500000,731
+53,Male,1968985,Homemaker,Karnataka,6,Mahindra XUV 400,1800000,158
+57,Female,946472,Homemaker,Haryana,1,MG ZS EV,2200000,345
+71,Female,1052525,Engineer,Mizoram,8,Mahindra XUV 400,1800000,763
+38,Male,1784135,Healthcare,Arunachal Pradesh,6,Mahindra XUV 400,1800000,731
+65,Male,921916,Doctor,Gujarat,5,BYD Seal,4500000,510
+18,Female,1752558,Businessman,Telangana,7,MG Comet EV,700000,754
+62,Male,1223603,Executive,Kerala,2,Rolls-Royce Spectre,75000000,188
+74,Female,985188,Doctor,Mizoram,4,Kia EV6,6300000,763
+78,Female,1625501,Executive,Andhra Pradesh,7,Strom Motors R3,500000,304
+80,Male,1625942,Healthcare,Andhra Pradesh,5,Porsche Taycan,20000000,304
+51,Female,1755303,Professor,Bihar,8,Tata Punch EV,1200000,906
+48,Male,1473670,Doctor,Uttarakhand,7,Audi e-tron,12500000,176
+58,Female,1527239,Entertainer,Assam,1,Hyundai Kona Electric,7400000,784
+68,Female,315768,Entertainer,Telangana,6,MG ZS EV,2200000,754
+80,Female,1147130,Lawyer,Tripura,3,MG ZS EV,2200000,456
+39,Female,847845,Healthcare,Haryana,8,Tata Tiago,900000,345
+39,Female,742878,Professor,Karnataka,3,BMW i7,22500000,158
+43,Female,1832962,Businessman,Meghalaya,6,Tata Tiago,900000,93
+57,Male,1202268,Engineer,Karnataka,7,BYD Seal,4500000,158
+43,Female,1887854,Engineer,Kerala,4,Audi e-tron,12500000,188
+40,Male,1917561,Entertainer,Himachal Pradesh,7,Tata Punch EV,1200000,144
+77,Male,1217249,Politician,Maharashtra,7,Porsche Taycan,20000000,380
+25,Female,488690,Entertainer,Himachal Pradesh,4,BYD Seal,4500000,144
+53,Male,1387399,Engineer,Uttarakhand,5,BMW i7,22500000,176
+71,Male,1580887,Politician,Punjab,2,Kia EV6,6300000,195
+33,Female,799127,Executive,Sikkim,8,Tata Punch EV,1200000,275
+59,Female,1929361,Artist,Mizoram,3,BYD Seal,4500000,763
+79,Female,702917,Executive,Mizoram,7,Rolls-Royce Spectre,75000000,763
+65,Female,1438769,Lawyer,Karnataka,6,Rolls-Royce Spectre,75000000,158
+55,Male,292105,Doctor,Punjab,6,Audi e-tron,12500000,195
+54,Male,976398,Doctor,Uttar Pradesh,8,Hyundai Kona Electric,7400000,216
+59,Male,419636,Healthcare,Meghalaya,8,Rolls-Royce Spectre,75000000,93
+79,Male,1160570,Executive,Andhra Pradesh,6,MG Comet EV,700000,304
+59,Female,1998228,Lawyer,Mizoram,5,BMW i7,22500000,763
+28,Male,699187,Executive,Chhattisgarh,8,Porsche Taycan,20000000,483
+76,Female,451201,Professor,Maharashtra,6,Kia EV6,6300000,380
+58,Male,296682,Engineer,Maharashtra,4,Hyundai Kona Electric,7400000,380
+72,Male,1131863,Businessman,Gujarat,6,Strom Motors R3,500000,510
+40,Female,1603766,Businessman,Mizoram,1,Mahindra XUV 400,1800000,763
+76,Male,1821277,Homemaker,Uttarakhand,6,BMW i7,22500000,176
+21,Male,1406518,Professor,Bihar,2,Porsche Taycan,20000000,906
+24,Male,203498,Executive,Himachal Pradesh,2,BMW iX,14000000,144
+69,Male,1724663,Engineer,Himachal Pradesh,8,Mahindra XUV 400,1800000,144
+35,Female,340235,Homemaker,Chhattisgarh,5,Mahindra XUV 400,1800000,483
+80,Male,1080258,Professor,Arunachal Pradesh,4,Tata Punch EV,1200000,731
+60,Female,1875159,Entertainer,Madhya Pradesh,3,MG Comet EV,700000,877
+50,Female,650071,Politician,Sikkim,4,Rolls-Royce Spectre,75000000,275
+33,Male,1012368,Politician,Karnataka,2,MG ZS EV,2200000,158
+56,Female,231106,Entertainer,Haryana,5,BMW i7,22500000,345
+65,Female,566674,Lawyer,Chhattisgarh,6,MG ZS EV,2200000,483
+31,Male,1617552,Professor,Kerala,4,Porsche Taycan,20000000,188
+27,Female,1102651,Doctor,Tamil Nadu,1,Hyundai Kona Electric,7400000,919
+80,Female,1866824,Healthcare,Gujarat,8,Porsche Taycan,20000000,510
+68,Female,1853275,Lawyer,Manipur,4,BYD Seal,4500000,287
+53,Female,1549835,Businessman,Sikkim,6,Strom Motors R3,500000,275
+35,Female,587489,Healthcare,Karnataka,4,Tata Punch EV,1200000,158
+75,Male,477164,Executive,West Bengal,8,Tata Nexon,1700000,513
+76,Female,1366093,Homemaker,Tamil Nadu,6,Audi e-tron,12500000,919
+62,Male,1915864,Lawyer,Uttarakhand,8,Hyundai Kona Electric,7400000,176
+40,Male,1598842,Healthcare,Goa,2,Hyundai Kona Electric,7400000,518
+22,Male,1553429,Businessman,Kerala,7,BYD Seal,4500000,188
+20,Female,848208,Businessman,Gujarat,6,BYD Seal,4500000,510
+57,Male,723140,Professor,Nagaland,6,BYD Seal,4500000,339
+73,Female,684714,Entertainer,Andhra Pradesh,6,Tata Nexon,1700000,304
+45,Male,413735,Entertainer,Kerala,4,Tata Punch EV,1200000,188
+24,Female,1421557,Homemaker,Uttar Pradesh,1,BMW i7,22500000,216
+34,Female,1291599,Homemaker,Jharkhand,8,Hyundai Kona Electric,7400000,132
+21,Male,970699,Homemaker,Uttarakhand,2,BMW iX,14000000,176
+78,Male,1160529,Engineer,Uttar Pradesh,6,Kia EV6,6300000,216
+52,Male,1363737,Engineer,Uttarakhand,5,Kia EV6,6300000,176
+46,Male,315208,Politician,Nagaland,1,Tata Nexon,1700000,339
+50,Female,1346329,Entertainer,Chhattisgarh,7,Tata Punch EV,1200000,483
+35,Female,1634571,Lawyer,Telangana,2,Strom Motors R3,500000,754
+80,Female,1012737,Engineer,Meghalaya,5,BMW iX,14000000,93
+29,Female,1136114,Politician,Himachal Pradesh,1,Kia EV6,6300000,144
+35,Female,751609,Healthcare,Meghalaya,5,BMW iX,14000000,93
+33,Female,1897479,Homemaker,Karnataka,1,Tata Tiago,900000,158
+53,Male,998550,Engineer,Goa,2,MG ZS EV,2200000,518
+38,Female,1087272,Engineer,Haryana,6,MG Comet EV,700000,345
+47,Male,666157,Professor,Telangana,2,Tata Tiago,900000,754
+18,Female,767252,Entertainer,Karnataka,6,Porsche Taycan,20000000,158
+43,Male,1976755,Lawyer,Uttarakhand,7,MG Comet EV,700000,176
+43,Female,1031630,Engineer,Assam,3,Rolls-Royce Spectre,75000000,784
+74,Male,445671,Lawyer,Gujarat,8,Rolls-Royce Spectre,75000000,510
+42,Female,1840517,Businessman,Andhra Pradesh,8,Tata Nexon,1700000,304
+60,Male,1564060,Artist,Mizoram,5,BMW iX,14000000,763
+18,Male,1084604,Lawyer,Rajasthan,4,Tata Punch EV,1200000,456
+29,Female,691792,Executive,Chhattisgarh,6,Mahindra XUV 400,1800000,483
+70,Male,1490356,Engineer,Manipur,3,BYD Seal,4500000,287
+66,Male,1308901,Engineer,Maharashtra,4,Audi e-tron,12500000,380
+23,Male,814872,Lawyer,Tripura,6,MG Comet EV,700000,456
+61,Female,868080,Entertainer,Arunachal Pradesh,8,Tata Tiago,900000,731
+21,Female,1927258,Entertainer,Madhya Pradesh,1,Kia EV6,6300000,877
+41,Female,221313,Politician,Nagaland,6,BYD Seal,4500000,339
+63,Male,351704,Engineer,Kerala,2,BMW iX,14000000,188
+71,Male,1926312,Artist,Madhya Pradesh,6,Tata Nexon,1700000,877
+37,Male,1288079,Doctor,Karnataka,8,MG ZS EV,2200000,158
+70,Male,844246,Doctor,Telangana,8,Porsche Taycan,20000000,754
+61,Female,987651,Executive,Uttarakhand,4,Rolls-Royce Spectre,75000000,176
+38,Female,1664907,Lawyer,Madhya Pradesh,3,BMW i7,22500000,877
+49,Female,797335,Homemaker,Telangana,5,Rolls-Royce Spectre,75000000,754
+24,Female,403311,Executive,Uttarakhand,3,Rolls-Royce Spectre,75000000,176
+53,Female,322129,Healthcare,Maharashtra,4,Mahindra XUV 400,1800000,380
+35,Male,1339055,Politician,Nagaland,4,Tata Tiago,900000,339
+54,Male,218670,Professor,Meghalaya,6,Mahindra XUV 400,1800000,93
+70,Male,1742731,Homemaker,Chhattisgarh,4,Rolls-Royce Spectre,75000000,483
+45,Male,1251582,Healthcare,Andhra Pradesh,3,BYD Seal,4500000,304
+23,Male,1318642,Professor,Punjab,7,Strom Motors R3,500000,195
+51,Female,1162516,Professor,Madhya Pradesh,2,Mahindra XUV 400,1800000,877
+18,Female,1231010,Entertainer,Telangana,2,Tata Punch EV,1200000,754
+37,Male,1545964,Engineer,Goa,8,Audi e-tron,12500000,518
+41,Female,1373405,Lawyer,Uttar Pradesh,8,Tata Nexon,1700000,216
+61,Female,1781051,Executive,West Bengal,7,MG ZS EV,2200000,513
+53,Male,227527,Entertainer,Goa,1,Tata Punch EV,1200000,518
+68,Male,246659,Politician,Sikkim,4,Strom Motors R3,500000,275
+45,Male,1341960,Businessman,Odisha,6,BMW i7,22500000,883
+65,Female,1441268,Healthcare,Odisha,3,Kia EV6,6300000,883
+39,Female,1425890,Professor,Tamil Nadu,3,Porsche Taycan,20000000,919
+43,Female,861573,Executive,Tripura,3,Hyundai Kona Electric,7400000,456
+65,Male,1515745,Doctor,Uttar Pradesh,1,MG Comet EV,700000,216
+79,Male,828549,Healthcare,Goa,8,Hyundai Kona Electric,7400000,518
+30,Female,1954522,Professor,Arunachal Pradesh,7,Strom Motors R3,500000,731
+75,Female,634541,Homemaker,Tripura,7,BYD Seal,4500000,456
+21,Female,567991,Homemaker,Uttar Pradesh,5,BYD Seal,4500000,216
+47,Male,1422146,Entertainer,West Bengal,3,Tata Tiago,900000,513
+33,Male,1349654,Healthcare,Meghalaya,5,Tata Tiago,900000,93
+61,Male,498593,Politician,Chhattisgarh,6,Tata Nexon,1700000,483
+73,Male,1328655,Homemaker,Meghalaya,7,BMW iX,14000000,93
+30,Female,307489,Homemaker,Uttar Pradesh,8,Mahindra XUV 400,1800000,216
+38,Female,699651,Businessman,Kerala,6,MG Comet EV,700000,188
+80,Male,260020,Homemaker,Nagaland,6,Audi e-tron,12500000,339
+40,Male,1412212,Lawyer,Manipur,3,Tata Punch EV,1200000,287
+34,Female,917357,Engineer,Assam,5,Porsche Taycan,20000000,784
+50,Female,807380,Executive,Goa,4,Kia EV6,6300000,518
+63,Female,1248645,Politician,Chhattisgarh,6,Tata Tiago,900000,483
+31,Female,1303695,Homemaker,Bihar,6,Strom Motors R3,500000,906
+64,Male,1388198,Businessman,Meghalaya,1,Kia EV6,6300000,93
+43,Female,1802089,Healthcare,Mizoram,5,BMW i7,22500000,763
+72,Male,1270243,Professor,Arunachal Pradesh,1,MG Comet EV,700000,731
+20,Male,1774180,Executive,Odisha,3,BMW i7,22500000,883
+72,Male,821560,Entertainer,Meghalaya,4,Audi e-tron,12500000,93
+20,Male,1938226,Doctor,Rajasthan,3,BMW iX,14000000,456
+70,Female,231636,Executive,Haryana,4,Mahindra XUV 400,1800000,345
+80,Male,1899480,Homemaker,Goa,6,Audi e-tron,12500000,518
+43,Female,502394,Doctor,Meghalaya,4,Rolls-Royce Spectre,75000000,93
+32,Female,1100612,Lawyer,Uttarakhand,7,Mahindra XUV 400,1800000,176
+61,Male,1277968,Businessman,Haryana,2,Porsche Taycan,20000000,345
+77,Female,635456,Artist,Punjab,5,BMW i7,22500000,195
+49,Male,322749,Businessman,Arunachal Pradesh,6,BMW iX,14000000,731
+57,Female,1244948,Businessman,Odisha,1,Hyundai Kona Electric,7400000,883
+32,Female,1807700,Doctor,Uttarakhand,1,BYD Seal,4500000,176
+19,Male,863291,Healthcare,Meghalaya,7,BMW i7,22500000,93
+68,Male,1603777,Politician,Manipur,5,Mahindra XUV 400,1800000,287
+60,Male,948740,Healthcare,Uttarakhand,8,Tata Punch EV,1200000,176
+33,Female,878611,Executive,Maharashtra,5,MG Comet EV,700000,380
+57,Female,1787170,Doctor,Himachal Pradesh,3,BMW i7,22500000,144
+59,Female,1480846,Lawyer,Chhattisgarh,1,MG ZS EV,2200000,483
+38,Female,1021008,Doctor,Meghalaya,2,Porsche Taycan,20000000,93
+77,Male,1469058,Homemaker,Uttar Pradesh,4,BMW iX,14000000,216
+27,Male,412212,Executive,Nagaland,1,MG Comet EV,700000,339
+24,Male,1156105,Doctor,Punjab,6,Kia EV6,6300000,195
+64,Female,1595683,Entertainer,Chhattisgarh,4,Audi e-tron,12500000,483
+52,Male,603312,Healthcare,Sikkim,6,BYD Seal,4500000,275
+63,Male,723059,Homemaker,Jharkhand,2,Tata Punch EV,1200000,132
+29,Male,424467,Lawyer,Andhra Pradesh,7,Kia EV6,6300000,304
+69,Female,513999,Professor,Andhra Pradesh,4,Tata Tiago,900000,304
+80,Female,249093,Businessman,Haryana,1,Hyundai Kona Electric,7400000,345
+53,Female,882942,Engineer,Uttar Pradesh,4,Tata Tiago,900000,216
+31,Male,619665,Entertainer,Uttarakhand,7,Tata Nexon,1700000,176
+34,Female,950367,Politician,Kerala,3,Mahindra XUV 400,1800000,188
+42,Female,1677688,Businessman,Haryana,8,Audi e-tron,12500000,345
+56,Male,1502124,Artist,Jharkhand,5,Audi e-tron,12500000,132
+79,Female,1669931,Doctor,Maharashtra,5,Hyundai Kona Electric,7400000,380
+38,Female,1389812,Healthcare,Karnataka,2,Tata Nexon,1700000,158
+36,Male,841818,Politician,Andhra Pradesh,4,MG Comet EV,700000,304
+62,Male,757906,Politician,Maharashtra,1,Porsche Taycan,20000000,380
+54,Male,673362,Homemaker,Odisha,1,BYD Seal,4500000,883
+18,Male,933237,Entertainer,Madhya Pradesh,3,BMW iX,14000000,877
+25,Male,718228,Artist,Punjab,4,Kia EV6,6300000,195
+29,Female,1483550,Executive,Tamil Nadu,7,BYD Seal,4500000,919
+55,Female,1007621,Artist,Tamil Nadu,2,BMW iX,14000000,919
+47,Male,1980890,Professor,Nagaland,4,Strom Motors R3,500000,339
+70,Female,1594995,Lawyer,Gujarat,7,Tata Tiago,900000,510
+53,Female,806039,Homemaker,Assam,2,BMW iX,14000000,784
+66,Female,1153594,Engineer,Karnataka,2,Tata Tiago,900000,158
+66,Female,1833994,Engineer,Kerala,6,BYD Seal,4500000,188
+56,Male,396921,Executive,Karnataka,6,Porsche Taycan,20000000,158
+50,Male,1136311,Doctor,Arunachal Pradesh,4,Porsche Taycan,20000000,731
+77,Male,1113006,Doctor,Andhra Pradesh,3,Tata Tiago,900000,304
+72,Female,320568,Artist,Bihar,6,BMW i7,22500000,906
+25,Female,619377,Entertainer,Haryana,8,Porsche Taycan,20000000,345
+65,Female,1362328,Lawyer,Punjab,3,Porsche Taycan,20000000,195
+30,Female,1034354,Professor,Sikkim,5,MG Comet EV,700000,275
+40,Female,1435881,Artist,Chhattisgarh,8,Audi e-tron,12500000,483
+78,Female,1772225,Lawyer,Telangana,1,MG Comet EV,700000,754
+37,Male,894583,Lawyer,Nagaland,2,Tata Punch EV,1200000,339
+57,Female,1168450,Healthcare,West Bengal,2,Tata Tiago,900000,513
+29,Female,1571521,Politician,Punjab,3,Tata Punch EV,1200000,195
+74,Male,1239645,Politician,Nagaland,4,Strom Motors R3,500000,339
+19,Male,1749750,Politician,Himachal Pradesh,2,BMW i7,22500000,144
+35,Male,1024815,Businessman,Meghalaya,2,BYD Seal,4500000,93
+67,Female,807798,Entertainer,Maharashtra,3,Strom Motors R3,500000,380
+32,Male,1929217,Entertainer,Bihar,2,Strom Motors R3,500000,906
+20,Male,1968036,Doctor,Tripura,3,Tata Punch EV,1200000,456
+21,Female,1079887,Entertainer,Tamil Nadu,1,Porsche Taycan,20000000,919
+64,Male,665745,Executive,Telangana,8,BMW i7,22500000,754
+52,Male,951435,Lawyer,Punjab,7,Tata Tiago,900000,195
+76,Male,671638,Professor,Arunachal Pradesh,8,Porsche Taycan,20000000,731
+27,Female,219393,Executive,Andhra Pradesh,8,Strom Motors R3,500000,304
+44,Male,412584,Lawyer,Maharashtra,3,Kia EV6,6300000,380
+74,Male,399731,Businessman,Goa,2,Tata Punch EV,1200000,518
+23,Male,768717,Professor,Uttar Pradesh,6,Tata Nexon,1700000,216
+66,Male,875350,Doctor,Jharkhand,7,Audi e-tron,12500000,132
+80,Male,631543,Politician,West Bengal,7,Strom Motors R3,500000,513
+52,Female,449404,Artist,Goa,1,Strom Motors R3,500000,518
+22,Male,284240,Politician,Madhya Pradesh,8,Rolls-Royce Spectre,75000000,877
+22,Male,1108780,Executive,Arunachal Pradesh,6,Hyundai Kona Electric,7400000,731
+61,Female,562540,Executive,Meghalaya,4,Porsche Taycan,20000000,93
+30,Female,647021,Engineer,Jharkhand,5,Rolls-Royce Spectre,75000000,132
+58,Male,1762638,Doctor,Karnataka,6,BMW i7,22500000,158
+40,Female,1844369,Executive,Andhra Pradesh,5,Strom Motors R3,500000,304
+25,Male,1855490,Homemaker,Uttar Pradesh,3,Tata Punch EV,1200000,216
+36,Female,1990718,Entertainer,Arunachal Pradesh,6,Porsche Taycan,20000000,731
+69,Female,1330969,Lawyer,Arunachal Pradesh,5,Rolls-Royce Spectre,75000000,731
+56,Female,1818800,Executive,Tripura,4,Mahindra XUV 400,1800000,456
+60,Female,550545,Engineer,Gujarat,2,MG Comet EV,700000,510
+42,Female,1650048,Professor,Kerala,4,Strom Motors R3,500000,188
+54,Female,571229,Homemaker,Punjab,1,Mahindra XUV 400,1800000,195
+32,Female,881537,Engineer,Nagaland,2,Audi e-tron,12500000,339
+19,Female,617147,Lawyer,Punjab,2,Tata Punch EV,1200000,195
+46,Female,1145044,Politician,Bihar,3,Mahindra XUV 400,1800000,906
+73,Male,396833,Engineer,Sikkim,6,Tata Nexon,1700000,275
+27,Female,1034792,Healthcare,Arunachal Pradesh,3,Kia EV6,6300000,731
+20,Male,1161845,Executive,Maharashtra,3,Mahindra XUV 400,1800000,380
+74,Male,1677907,Entertainer,Andhra Pradesh,8,MG ZS EV,2200000,304
+45,Male,1294578,Businessman,Andhra Pradesh,2,BMW iX,14000000,304
+49,Male,1672110,Businessman,Odisha,2,Rolls-Royce Spectre,75000000,883
+43,Female,1170366,Entertainer,Meghalaya,2,Rolls-Royce Spectre,75000000,93
+34,Male,1228135,Doctor,Gujarat,8,BYD Seal,4500000,510
+68,Female,1463032,Entertainer,Punjab,7,Tata Punch EV,1200000,195
+79,Male,1429666,Lawyer,Jharkhand,1,BMW iX,14000000,132
+28,Female,1498313,Executive,Nagaland,1,MG ZS EV,2200000,339
+41,Male,1960335,Businessman,West Bengal,7,Porsche Taycan,20000000,513
+29,Female,1870140,Executive,Bihar,4,Hyundai Kona Electric,7400000,906
+68,Male,287759,Lawyer,Manipur,3,Rolls-Royce Spectre,75000000,287
+52,Male,1926675,Doctor,Karnataka,1,Hyundai Kona Electric,7400000,158
+76,Female,967061,Lawyer,Goa,2,Rolls-Royce Spectre,75000000,518
+23,Female,1914225,Lawyer,Maharashtra,5,BMW i7,22500000,380
+57,Male,1269746,Doctor,Goa,4,Hyundai Kona Electric,7400000,518
+64,Female,733197,Businessman,Telangana,2,Rolls-Royce Spectre,75000000,754
+57,Female,1089029,Engineer,Manipur,4,Tata Nexon,1700000,287
+18,Female,814190,Engineer,Karnataka,8,Audi e-tron,12500000,158
+37,Male,1140828,Politician,Chhattisgarh,3,MG Comet EV,700000,483
+23,Male,268085,Doctor,Kerala,3,BYD Seal,4500000,188
+39,Male,1870447,Artist,Mizoram,1,MG Comet EV,700000,763
+69,Male,1527660,Artist,Sikkim,4,BMW iX,14000000,275
+27,Female,960769,Professor,Uttar Pradesh,7,Hyundai Kona Electric,7400000,216
+44,Male,279097,Doctor,Odisha,8,Strom Motors R3,500000,883
+43,Female,627704,Politician,Arunachal Pradesh,4,Rolls-Royce Spectre,75000000,731
+57,Female,879814,Businessman,Rajasthan,8,Hyundai Kona Electric,7400000,456
+37,Male,1280716,Entertainer,Haryana,2,BMW iX,14000000,345
+25,Female,1598636,Healthcare,Sikkim,6,Porsche Taycan,20000000,275
+67,Female,1741733,Lawyer,Nagaland,7,Porsche Taycan,20000000,339
+22,Male,617426,Healthcare,Kerala,1,BMW iX,14000000,188
+44,Male,495884,Doctor,Manipur,1,MG ZS EV,2200000,287
+67,Female,700193,Executive,Sikkim,2,Tata Punch EV,1200000,275
+74,Male,265386,Artist,Manipur,2,Tata Punch EV,1200000,287
+47,Female,1258499,Engineer,Goa,1,Porsche Taycan,20000000,518
+51,Female,1911173,Doctor,Punjab,1,Tata Punch EV,1200000,195
+68,Male,475441,Executive,Tamil Nadu,1,Audi e-tron,12500000,919
+50,Male,217263,Healthcare,Mizoram,4,Strom Motors R3,500000,763
+63,Female,1739256,Homemaker,Mizoram,2,MG Comet EV,700000,763
+30,Male,1384388,Entertainer,Arunachal Pradesh,8,BYD Seal,4500000,731
+30,Female,1298652,Homemaker,Manipur,2,Porsche Taycan,20000000,287
+60,Female,1952149,Engineer,Nagaland,7,Strom Motors R3,500000,339
+62,Female,1385945,Entertainer,Himachal Pradesh,7,BMW i7,22500000,144
+79,Male,286963,Politician,Kerala,8,Mahindra XUV 400,1800000,188
+79,Male,550822,Artist,Andhra Pradesh,6,Tata Punch EV,1200000,304
+27,Female,1629312,Engineer,Assam,4,Rolls-Royce Spectre,75000000,784
+21,Male,1137215,Artist,Goa,4,BMW i7,22500000,518
+44,Male,1148007,Lawyer,Chhattisgarh,2,BMW i7,22500000,483
+57,Female,1420830,Healthcare,Goa,5,Tata Tiago,900000,518
+33,Female,1439481,Businessman,Meghalaya,7,Tata Tiago,900000,93
+45,Male,1108878,Doctor,Arunachal Pradesh,2,Tata Tiago,900000,731
+52,Male,202442,Healthcare,Tripura,6,Strom Motors R3,500000,456
+29,Male,957224,Homemaker,Meghalaya,8,MG ZS EV,2200000,93
+23,Female,1537119,Artist,Gujarat,8,MG Comet EV,700000,510
+62,Female,472878,Doctor,Manipur,3,Tata Nexon,1700000,287
+53,Female,1614803,Businessman,Chhattisgarh,6,BMW iX,14000000,483
+35,Male,1215775,Artist,Maharashtra,7,MG Comet EV,700000,380
+58,Female,804642,Healthcare,Maharashtra,8,Strom Motors R3,500000,380
+76,Male,1642009,Lawyer,Manipur,7,Kia EV6,6300000,287
